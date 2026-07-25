@@ -1,0 +1,275 @@
+{
+  "refreshedAt": "2026-07-25T13:55:12.959884-04:00",
+  "sites": [
+    {
+      "name": "Florida Gators",
+      "url": "https://floridagators.com/sports/baseball",
+      "query": "site:floridagators.com baseball",
+      "keywords": [
+        "baseball",
+        "mlb",
+        "bowen",
+        "strayer",
+        "cyr",
+        "mcneillie",
+        "yost",
+        "sandefer",
+        "peterson",
+        "dukes"
+      ],
+      "logo": "https://floridagators.com/favicon.ico",
+      "kind": "google_news",
+      "accent": "#fa4616",
+      "posts": [
+        {
+          "title": "Bowen Signs Free Agent Contract with Rangers",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1VOOVRXYlJ1MmFjMFFfYzNPMVVhT0dFbndYUkZoVXVhaHdOSFNIOGRWaHFlQ2VKY0dCTDFjWVpZUmRsaC10NXBBVWtqSnlyLTRQVEZ2SU5hd19FaFJRUWIwRkUxRXFRa3c1Y0EyTjlRbVpET1dVOGI4YU1VNk5PVnQwUDgyUkpJRC1zU3N6a2p5QWZkVExRamZn?oc=5",
+          "published": "2026-07-20T19:44:11+00:00",
+          "excerpt": "Bowen Signs Free Agent Contract with Rangers Florida Gators",
+          "image": ""
+        },
+        {
+          "title": "Dedric Dukes Named to 2026 UF Athletics Hall of Fame Class",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmdPejJKc0ZPbW5SOHh1ZGtMdnE1YVZvRjFVdkJyaFhxZDVpRTZkV0RSazNvRnc0YXlPcTlVRjhZNW9tZkkweWdiMVNWNHpObGk3bnIxLXZjai1LblhlUGIwM25INDVCUWRhRTYtR3lreUROUFRZUzhVRTM4QjBGR1ppNFh4aURZYmxabkRDX1dsc1lnMG90blhBV0pSY2VpWFlxbjlwb3dpY3E1ZWwxeXRUaUU?oc=5",
+          "published": "2026-07-20T15:12:08+00:00",
+          "excerpt": "Dedric Dukes Named to 2026 UF Athletics Hall of Fame Class Florida Gators",
+          "image": ""
+        },
+        {
+          "title": "McNeillie, Yost Picked in MLB Draft’s Fifth Round",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGhYS21QMGZGWVlCc2dSNlRReDQ4eEVJQnB1czAwaF9MUXVzQlJlUTh0VkhaQ2xhUkhhTEY5TWR3N3JLOWFHWW1qZ0c4YXZlWEgyeDRycjl6SmV2RkNvUWRkVVpza3lzY2dVMDZXWHd6U3hFdkR5dUNOR1hJUGNCN1N4NTdYelNyWGxPZVFCUDI0a3FpT3d0bWpteHZMU1pQVUE?oc=5",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "McNeillie, Yost Picked in MLB Draft’s Fifth Round Florida Gators",
+          "image": ""
+        },
+        {
+          "title": "Dodgers Select Sandefer in Fourth Round of MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXVlTkpBdHdxN1B4UEZWLW5UNS1zZ3hHbUVoOHlxYWJhZXlFTXlrVng5YUc3NHpCZ0N2d3VhUTY3Mk9adVNvQ0ZURmtyenNIc0R2UEZ6WVEwTi1hRTRBU0xWN0t4RHk0MTRwUHdfYzJraTYwT2NrNU5zeWpOZnc3SlVYdGNjaWZkS3ZXWGhZdXdvX2FqUlprNW1kTmg1TTRVS3NUaA?oc=5",
+          "published": "2026-07-11T07:00:00+00:00",
+          "excerpt": "Dodgers Select Sandefer in Fourth Round of MLB Draft Florida Gators",
+          "image": ""
+        },
+        {
+          "title": "Gators Await Fate in 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPek5fLS0za2pWYjZ4TDc0bVR1UUdYLXpfS2lWSEl6dGd6OVF6UUtjR3ZITnpPM0UxNE0teWJtTlk0OUlCdUhzZWU0Z3BsWERndkJwZjV1cDJ6bGJIZXFubm1JV2xVSWpuX0g5SjcwV0xVNUhDVkxaeU8wOGFjbFlocl9kaUZ4WjB2amdTUw?oc=5",
+          "published": "2026-07-09T07:00:00+00:00",
+          "excerpt": "Gators Await Fate in 2026 MLB Draft Florida Gators",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "WRUF",
+      "url": "https://www.wruf.com/",
+      "query": "site:wruf.com Florida baseball",
+      "keywords": [
+        "baseball",
+        "mlb",
+        "bowen",
+        "strayer",
+        "cyr",
+        "mcneillie",
+        "yost",
+        "sandefer",
+        "peterson"
+      ],
+      "logo": "https://www.wruf.com/favicon.ico",
+      "kind": "google_news",
+      "accent": "#fa4616",
+      "posts": [
+        {
+          "title": "Guardians Draft Florida’s Liam Peterson in First Round",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQURwNFdNeER6Z1lOU2l0SVlBTVhxS0VCUU9vMU9lc2t1ZWxlSlN5Nm9zLTVCYU96eVhfdW1RTlI2ZXpkUm9uU1hXR2IxbnJfZTgyRGVwOXdKX0daTEZHbFJZcUZ1cDFPMXB2M3FiMUFlRGFNbzhwM0FKYUM5MmFiVHkxM3ZQYkFMZ21TS1o1ZHg0UEwtcW14MG9TLXA3LW5mdzRZUGtsOGhXdDktZ1B0ZWFEUXdiYUlj?oc=5",
+          "published": "2026-07-11T07:00:00+00:00",
+          "excerpt": "Guardians Draft Florida’s Liam Peterson in First Round WRUF",
+          "image": ""
+        },
+        {
+          "title": "Florida Pitcher Luke McNeillie Signs With New York Mets",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYW9XaHdTS1A2RmlrWHFOUWw0ZGw5SnVqMlVlbGxXSU9iQ3dpYW1kdHBtRVMzaVd0ZUJlbDdqNkxHMDVmQ2R3ZERVTXJ2am9jSDlWMkRDbU54YUJzMDVZM1AweVFEOEFmQ2ZEeVQ3N0JnWDVoVkpZM0pHYUp4cElITFlHVzAzNU1OSGNESXZjVnpZS1FPZDJpODdTX1lPWVE?oc=5",
+          "published": "2026-07-22T14:16:05+00:00",
+          "excerpt": "Florida Pitcher Luke McNeillie Signs With New York Mets WRUF",
+          "image": ""
+        },
+        {
+          "title": "2026 MLB Draft Tracker: Florida Gators Signings",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWV9teHc2dWdNU0dRWlVWNzdjNWROUWl1aFBWZkJKc25ZdERCTGRMY3NJMUZXSEYtRkI3SHhFMVFoVlh2MWV3TFBMOXhyb0lENkxLeE5IZ3lxdmEwVEdNbVJLN2NjSHp3RDRtQ0EtcGVQd0lTZzY5dFRJcXMzbXVIYlRBRkVnczJvQU1EUXQycWNuOGM?oc=5",
+          "published": "2026-07-22T17:56:41+00:00",
+          "excerpt": "2026 MLB Draft Tracker: Florida Gators Signings WRUF",
+          "image": ""
+        },
+        {
+          "title": "Florida Baseball 2026 Transfer Portal Tracker: Blake Brookins Joins Oregon State",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFBDZ0VTV2JXZFROd0JPZ093MGo0dkt3bHdVdWtTSTVTbW9OMWRObWNMS0Njejg3QmtOXzFROTZ2SzlxeHByeThuM21YRDJDdFNUbnBqaEluNWJtR0lzUjh0OXJFc24wTHVrd0pJSTcxTmw0X080RW83Rndlb0NqVDhuY0RtYlBTMXN5Q3p0NElmdw?oc=5",
+          "published": "2026-07-19T07:00:00+00:00",
+          "excerpt": "Florida Baseball 2026 Transfer Portal Tracker: Blake Brookins Joins Oregon State WRUF",
+          "image": ""
+        },
+        {
+          "title": "Dodgers Ink Former Florida Pitcher Russell Sandefer for $434,000",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3ZsWktXWV9YN0xUZUppbkRUaGd6UG16SUlpa1FTNjg1VzVBWWhJUlNvUVpISWEtWGVseGpYZFJmYkZRdXpyS1NsQUdiS1lEQWtfemFQTTJpaXM3blJpSWNMUzlDbFE2VHhpSnNyZFdFME5vQk85cHYtald1MmEycHV0eFZVMnNDTWZaQVdRZnhub3ZyVDZJdkMtZUpSY3dhdTlQWXpxSTk?oc=5",
+          "published": "2026-07-17T20:41:08+00:00",
+          "excerpt": "Dodgers Ink Former Florida Pitcher Russell Sandefer for $434,000 WRUF",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Gator Country",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/",
+      "feed": "https://www.gatorcountry.com/florida-gators-baseball/feed/",
+      "logo": "https://www.gatorcountry.com/favicon.ico",
+      "kind": "feed",
+      "accent": "#0021a5",
+      "posts": [
+        {
+          "title": "Florida Baseball MLB Draft Signing Bonus Tracker",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseball-mlb-draft-signing-bonus-tracker/",
+          "published": "2026-07-20T17:50:54+00:00",
+          "excerpt": "The Florida Gators had six players selected in the 2026 MLB Draft, and all six have signed with their respective organizations. Below is Gator Country’s signing bonus tracker. RHP Liam Peterson Junior Liam Peterson was s",
+          "image": ""
+        },
+        {
+          "title": "Florida Gators in MLB: 2026 Midseason Check-In",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-gators-in-mlb-2026-midseason-check-in/",
+          "published": "2026-07-16T20:19:48+00:00",
+          "excerpt": "With MLB at the All-Star break, it’s time to check in on how the former Gators are performing in 2026. Florida had a nation-leading 12 players on Opening Day rosters, while 16 total former Gators have made appearances in",
+          "image": ""
+        },
+        {
+          "title": "Florida Baseball’s Way-Too-Early Projected Lineup",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseballs-way-too-early-projected-lineup-and-depth-chart/",
+          "published": "2026-07-13T19:19:20+00:00",
+          "excerpt": "With the 2026 MLB Draft now complete, we can begin to gain a clearer picture of what Florida Baseball’s roster will look like in 2027. The Gators can still add players through the transfer portal, but with 38 players alr",
+          "image": ""
+        },
+        {
+          "title": "Florida Wins at the 2026 MLB Draft: A Review",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-wins-at-the-2026-mlb-draft-a-review/",
+          "published": "2026-07-13T15:13:17+00:00",
+          "excerpt": "Florida emerged as one of the biggest winners of the 2026 MLB Draft, as just one of its 12 high school signees was drafted and several key draft-eligible players remained on track to return to Gainesville. Let’s start wi",
+          "image": ""
+        },
+        {
+          "title": "Florida INF Ethan Surowiec Returning for Junior Season",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-inf-ethan-surowiec-returning-for-junior-season/",
+          "published": "2026-07-12T23:34:26+00:00",
+          "excerpt": "Florida Gators infielder Ethan Surowiec will return to Florida for his junior season, he announced on social media. Surowiec was draft-eligible following his sophomore season, during which he posted a .317/.409/.528 slas",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Florida Gators on SI",
+      "url": "https://www.si.com/college/florida",
+      "query": "site:si.com/college/florida baseball",
+      "keywords": [
+        "baseball",
+        "mlb",
+        "bowen",
+        "caglianone",
+        "mcneillie",
+        "peterson",
+        "cyr"
+      ],
+      "logo": "https://www.si.com/favicon.ico",
+      "kind": "google_news",
+      "accent": "#0021a5",
+      "posts": [
+        {
+          "title": "Where Florida Gators Baseball's 2026 Recruiting Class Stands After MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1pyOTlMbThvalBJdlZlTkVaR01rZ3pNNEVjN1FQQnE2dGgyNlhObDYzR3puT1FwdDF6LXdWNGhwN0FnY29hcjBQTW9udjc1MUo4OHpqVS1iMER0cC03SjE5Wlk2dGExd19LSTdkUTdDSTBOQ2pWX2MwUjk4ay1IcVFDYjZ4alBoTmtpekR6QVdELV9fNVJJdldlc2IyYXhWbXF0S21YUDlqckIxanFKQ0o0cTJxVjNsdG5CMFh5SjE5YzZDVGJweW5adw?oc=5",
+          "published": "2026-07-13T07:00:00+00:00",
+          "excerpt": "Where Florida Gators Baseball's 2026 Recruiting Class Stands After MLB Draft Sports Illustrated",
+          "image": ""
+        },
+        {
+          "title": "Gators C Karson Bowen Signs UDFA Deal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1owVWQ4a1BFbW5oMDRQNXdrZnZTT1EyVVo1cEJ3c3dMOFdGMEZHMUx6VlZBbmRUbWR2ZXF5SWI5N1drQWdoWWVyVVdOa2p3cHY4dnI4OG41LWk3OHRZcE5TNmFkMVNVMExGUnZrckt5V3d3ZnRkRkdFY1d6dGhZYV9RYnI3QzR2aG5FMXNOVlE3SlphN3EzVXl3?oc=5",
+          "published": "2026-07-18T14:00:01+00:00",
+          "excerpt": "Gators C Karson Bowen Signs UDFA Deal Sports Illustrated",
+          "image": ""
+        },
+        {
+          "title": "Florida Signee Kevin Roberts Jr.'s Future Revealed After MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU15NUNRbG41THZMWEFaM0Zta25jVFdHX18wOXR1Qnp3RVBXU3JqYnFvdllPUkFzd2hxU1pmaVR5TEZjbzN3WU1BdDgtZmpDVm5HTV9XMlpKWFBvcnpMXzVjb2FVZ1V1Y3lZZUVmSnhtaTBBS05QcFVWby1OYXpHZUJuc1pqNUpWajd0M3VWeHMyLTVOUzM2cTlMMmVmSGVHVVFpckFHVDBsR1ZoUEp6WDVLdEpaVTc0T0JVbQ?oc=5",
+          "published": "2026-07-24T13:21:20+00:00",
+          "excerpt": "Florida Signee Kevin Roberts Jr.'s Future Revealed After MLB Draft Sports Illustrated",
+          "image": ""
+        },
+        {
+          "title": "What to Know for Former Gators Star Jac Caglianone in Home Run Derby",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1JraU13a2FfWWdyRWgtQU02NGJoTHRwZXlKX3VhV0gzM0kwM0QzYkZYNlprMnZkbTBvck9xbkFZcDl6QnB6eDJMSHpiM2QySS02b1FiSjJHcGNrNk9NdTByUUNjbUw5eTdLNE9oYVVncWZhdWVVSXVab0dBY01xSEdCUHVjbC1qZU5nRTRFUDdvc1JHeFhjZFdJQjN5ZFBrUzJlQ2tiTko?oc=5",
+          "published": "2026-07-13T07:00:00+00:00",
+          "excerpt": "What to Know for Former Gators Star Jac Caglianone in Home Run Derby Sports Illustrated",
+          "image": ""
+        },
+        {
+          "title": "Florida Predicted to Make Program History in 2027 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1pmUE8zZW1TZkwtZXljTDJ2X0tNMGI5NFZYNkx4TkkzaUhDWjdqSjMtT05zV1lnLXZYcHZleTREQkNUVnQzMnZ0dkh0TkVaQ1YtNk8wNHdtOGZRV1pNRFdhSVZRVE5wZFE3aXl1d2xndFBtWHA4UnNraWd2UERJVHo3Z29PdVZPeFdsTFJEVndSMFM3R3BkcDA3QmN4T3JsWGhscmd3R2Q4THh0RG9V?oc=5",
+          "published": "2026-07-14T07:00:00+00:00",
+          "excerpt": "Florida Predicted to Make Program History in 2027 MLB Draft Sports Illustrated",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Gainesville Sun",
+      "url": "https://www.gainesville.com/",
+      "query": "site:gainesville.com Florida baseball",
+      "keywords": [
+        "baseball",
+        "mlb",
+        "surowiec",
+        "peterson",
+        "draft"
+      ],
+      "logo": "https://www.gainesville.com/favicon.ico",
+      "kind": "google_news",
+      "accent": "#4b5563",
+      "posts": [
+        {
+          "title": "Santa Fe College hires D-1 pitching coach as new baseball coach",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXVxazdwYWl1dE11cTZHdWQ3Q1VjeFVPRHpPWGVMRWZyU1RYeFo4aUFYTFRMRXkxVzZQaDVKUWNZVlJUZUJod3ZCWU9zVkwzSWZIRTg1OEhUYTlMdjRONmJnX1A1Z1pTTmpaenhnUkstQUV4VGVrVjlTUmltYzU4QUdpTnFiRkVEMk9FR0Z2anpFUUFnelRnWkxsLVBVZ09WeXlJTTNOemhtUENyeHk1eFhpUU5ISXREbnFhX0JwOVVYR3dscVF2RTlrbktuZ0U?oc=5",
+          "published": "2026-07-24T14:57:00+00:00",
+          "excerpt": "Santa Fe College hires D-1 pitching coach as new baseball coach Gainesville Sun",
+          "image": ""
+        },
+        {
+          "title": "Tracking every Florida baseball player and signee’s MLB Draft deal",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZVZKZzJjS3ltUmk0Tkp0UUhiNkJ0VmxFWFc1NDNDR2dkSXlzTW8xWS1OZ3NaNW9VZkh2V1RFSnpPaDBnS09Ic3YybS1MTGdwdzIwLTNoVWdWNW5SWWNoOHoyTEJGX2NSeUVvOFJpMHQzNmN4ZTcwV21jZEN6NTlRWHJ5WWlNVWs0U3lNZkRrejA4bzc0WUh6VlZiVUUybUV1SmRYUlF6MnR1Qkd4S1lFSVJoZXlCQ1FRLW5mbFR6eF85cDc3QlcyOW1hVm02Q0ZQTE9VcVNfcmdHaGhj?oc=5",
+          "published": "2026-07-24T19:45:00+00:00",
+          "excerpt": "Tracking every Florida baseball player and signee’s MLB Draft deal Gainesville Sun",
+          "image": ""
+        },
+        {
+          "title": "Early projection of Florida baseball’s 2027 starting lineup after MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckp5SHY4LXNBdzMzbWV3RXlERGo5N0Fpb1F6SGNvTWNrU1ZFMjFqQW9WNFVBWHcwVHFNMmlXaTROa0t2NjlzMHVVWkVBQjhfZ0NUeGtTc0E5QnF6bTJLMTkyT3NXLXE2RGZNb0NKVDZzOWxyWlVNRkVORFhwWHJLdzlxUFZ4VHZqRlpjdFZQalR1MWtOZ1hNa2ZISU5zQllyMHNhdmxZbl9JYWx6aUJpQXhQbFZGQUJLanFNRGQtYTJIeHBQVUhKZkxfQUVyQWxlNVFvbHhB?oc=5",
+          "published": "2026-07-15T08:03:00+00:00",
+          "excerpt": "Early projection of Florida baseball’s 2027 starting lineup after MLB Draft Gainesville Sun",
+          "image": ""
+        },
+        {
+          "title": "Florida baseball’s Ethan Surowiec set to return next season",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObUFoX3prSzBRSjdicmc4MnFOOFV3Tkp6dW03V2l6TlJ1d0ZOemJNM2pXdzU1WXZRcERTTm40X05yOHU1a2h2X1NSVFpCVWRnMmVmdVY4NkEtNzhUem5pV0Vqb1c4a3didzFybUdlZGhpZUk4Z3VsQmxuWkh5UEFXcE8wdEIzcmpuX2hiUkV6MGk2eGZ2QzdjODNlLTBGTDBpTzd6dERaSEtXZHljVm9qNE80YS1QQlNlbTQzNFVaeFR5YmROekQ4RGRHU2Q5S3ZobFpjRzR3N1lWRjJqSjJWbw?oc=5",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "Florida baseball’s Ethan Surowiec set to return next season Gainesville Sun",
+          "image": ""
+        },
+        {
+          "title": "Florida baseball MLB draft tracker: Where Gator players and signees are selected",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTE5seDRSNlB0MjM0eFgwUFc1R2pkNXE2Qlh0UWEwaENWYlNMMERWR3hLV1ZKYkVyNDVCSWlEYS1fSUVMaWVweF9QbXc1S3Fpemo0eDZFVzdLYUIwTUV5UXZfQlUxUEJBZzRsaEhYX2p0Sk9fWWxMY0NlTndpYkpuby1RcjF3X2JOVkVFSWQ0TTBrakNXVWF5elZwU1dKNncySG1QZGIzb1JrLWp2WGdnQzRGQWw1M1ZDeEl3aVVWUUJGdEZZVWh5QkVLZG9BQ0lWWEVNMkVDXy12UUN5NldnYVF2b1JaN1lTUHR3?oc=5",
+          "published": "2026-07-11T07:00:00+00:00",
+          "excerpt": "Florida baseball MLB draft tracker: Where Gator players and signees are selected Gainesville Sun",
+          "image": ""
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "errors": []
+}
