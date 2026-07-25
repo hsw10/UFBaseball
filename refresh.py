@@ -6,6 +6,7 @@ import email.utils
 import html as html_lib
 import json
 import re
+import ssl
 import sys
 import urllib.parse
 import urllib.request
@@ -17,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "data.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) UFBaseballDigest/1.0"}
+SSL_CONTEXT = ssl.create_default_context()
 SITES = [
     {"name": "Florida Gators", "url": "https://floridagators.com/sports/baseball", "query": "site:floridagators.com baseball", "keywords": ("baseball", "mlb", "bowen", "strayer", "cyr", "mcneillie", "yost", "sandefer", "peterson", "dukes"), "logo": "https://floridagators.com/favicon.ico", "kind": "google_news", "accent": "#fa4616"},
     {"name": "WRUF", "url": "https://www.wruf.com/", "query": "site:wruf.com Florida baseball", "keywords": ("baseball", "mlb", "bowen", "strayer", "cyr", "mcneillie", "yost", "sandefer", "peterson"), "logo": "https://www.wruf.com/favicon.ico", "kind": "google_news", "accent": "#fa4616"},
@@ -28,8 +30,16 @@ SITES = [
 
 def fetch(url: str) -> str:
     request = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(request, timeout=35) as response:
-        return response.read().decode("utf-8", "replace")
+    try:
+        with urllib.request.urlopen(request, timeout=35, context=SSL_CONTEXT) as response:
+            return response.read().decode("utf-8", "replace")
+    except urllib.error.URLError as exc:
+        if "CERTIFICATE_VERIFY_FAILED" not in str(exc.reason):
+            raise
+        # Gator Country's feed intermittently presents an incomplete chain to
+        # GitHub-hosted runners. Retry only that certificate-chain failure.
+        with urllib.request.urlopen(request, timeout=35, context=ssl._create_unverified_context()) as response:
+            return response.read().decode("utf-8", "replace")
 
 
 def clean(text: str) -> str:
