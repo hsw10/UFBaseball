@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-05T15:09:21.703653+00:00",
+  "refreshedAt": "2026-08-06T15:08:37.330731+00:00",
   "sites": [
     {
       "name": "Florida Gators",
@@ -100,17 +100,17 @@
           "image": ""
         },
         {
-          "title": "Three Gators Selected to USA Baseball Collegiate National Team",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVo4OHpHZXdyT1NuR1hobG9BVDdDOTkzcjdmVUVuYlJZamJvc3NsWXEwZmR1ZlVPX3VBckIzWXVKUlhCYkpfN2hEdUxWS0c5aFQzTzh1TnR2QXVGa1N1dnZIODY0dGFfVVAxQUJGdzBwS3NXWVN0ZGtJUjBFWWI3NXIwMVNGX2FvYU9PRmE2alBKMDVfaUlFcUlySmJVR2ZhbGRNRERsZFc?oc=5",
-          "published": "2026-07-06T07:00:00+00:00",
-          "excerpt": "Three Gators Selected to USA Baseball Collegiate National Team WRUF",
-          "image": ""
-        },
-        {
           "title": "Former Catcher Karson Bowen Signs with Texas Rangers",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXRDMldOaDZvdUJtOUg0aDYtVW41MGhFbFp5dHlHNWdoX25sS1BSa21FUnBYODhodXNGTlN6bXVibkZWZUdkdEs0bVp4OUh1U1IzYzNFaWF0Umt5SmRERFNxandyUEFleFNmUHRuOGZiNDhsdnpiNHNqWVh1SXYxdl9aX3RPNEZkdzRWZlFZN3ozb2pNdUdPNGh4Zw?oc=5",
           "published": "2026-07-22T07:00:00+00:00",
           "excerpt": "Former Catcher Karson Bowen Signs with Texas Rangers WRUF",
+          "image": ""
+        },
+        {
+          "title": "Gators Outfielder Hayden Yost Signs with Seattle Mariners",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWhLOGVKM21YT2ozc1BPaFI4MWhEOXEtSUJyaWU5Tm1zLXFodTQtQlhqbVJfSTBIQkxDcnItOE9felp4T3FYd2RQbXBHQ1RTVkdiRFV2UGM5MjcybXRBM2Q0N3lJdE1CeXF0U3lXUDRHYnpQN1RrUFVXUVk4NlpZMFh0LVNaTTlmd3l0X0tMQTFTcm9qZlYwSkJaam12SXU4WUE?oc=5",
+          "published": "2026-07-22T07:00:00+00:00",
+          "excerpt": "Gators Outfielder Hayden Yost Signs with Seattle Mariners WRUF",
           "image": ""
         }
       ],
@@ -247,13 +247,6 @@
           "image": ""
         },
         {
-          "title": "Santa Fe College hires D-1 pitching coach as new baseball coach",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXVxazdwYWl1dE11cTZHdWQ3Q1VjeFVPRHpPWGVMRWZyU1RYeFo4aUFYTFRMRXkxVzZQaDVKUWNZVlJUZUJod3ZCWU9zVkwzSWZIRTg1OEhUYTlMdjRONmJnX1A1Z1pTTmpaenhnUkstQUV4VGVrVjlTUmltYzU4QUdpTnFiRkVEMk9FR0Z2anpFUUFnelRnWkxsLVBVZ09WeXlJTTNOemhtUENyeHk1eFhpUU5ISXREbnFhX0JwOVVYR3dscVF2RTlrbktuZ0U?oc=5",
-          "published": "2026-07-24T07:00:00+00:00",
-          "excerpt": "Santa Fe College hires D-1 pitching coach as new baseball coach Gainesville Sun",
-          "image": ""
-        },
-        {
           "title": "An MLB scout's view of Florida Baseball's 2026 draft class",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlhqSkM3MHk3TlcyS09JUTRBZjcxR0V5cEliTk5oa3FYbEN0NG14SXEtQTJJOElVMlg3TXVSQ2tsd1lqWVJFLVZWQk9rNlZ6YkJqOGc3cWlKMWZscjVMUW5jNUF4OWxqalpxcGFNU1E5bjVJaXdDY3dmS3d2RFBIbnpVbmhtV0NfNWh5Yzd1R0Nfbng4ejEzSjlrWEhQSURWeGdnZHdQV3VSczRydWZhQk01U3l2cVJ1MFJJR2MyMG5lY0l1eEdiT2RZaHlpdzRZX1E?oc=5",
           "published": "2026-07-08T07:00:00+00:00",
@@ -265,6 +258,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQUxJNDVhbFZyNTVvSEE1SUxLckhSd3pnQ1FLVW55MWlQNHJneTNvTi1HbUhzRkN3RHlzRzNKOHlGX0hWb0JsakV5d2FhNk5ydmVOWnhScE1MTllkVU9YUF81NTQ0YXlIenNoYnBoRk03YzRkNExfWWlEWkZpVFFXRndzT0pXcTQ0SGplU2NURTNIM25mSTNkOUhoaUtDY1lfREg1WWtBVms2YW1NUHZsWllDamswc1VNTEFUVXExcmY1OXZlQXREUVBuZUkyMmdlQ1p1WHdpem1mbVU3YmZzWGxTMHdtbjg3U0ctS1ZfSTljMUlYTTZfZzhrWDBlMEwxRDlWV045M0Y?oc=5",
           "published": "2026-07-08T07:00:00+00:00",
           "excerpt": "See photos of the Big School Baseball Player of the Year Newberry, Florida commit Tavis Honeycutt Gainesville Sun",
+          "image": ""
+        },
+        {
+          "title": "What Florida baseball’s Kyle Jones brings to Milwaukee Brewers",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdWtpb0Z2bmMwUTNNNmRhdXYxVm5QNTZRTGVWcUZKZVFPVk1nNFR0Uy1VYjdSZVg5RmFKc05xMVBVS1lta2NBRVN6RXRSNVpISjIxYnp1aHNDN3RXTVJlVzg0X195SmhQcjRTeTQyVnlHZWlSUUEyNEU0MTdqRmtab0pBV2dNVDQxR1FvSVRDVHUwUkxIMVJDUzJpSUpXdDlXMVdGMHF3NVJvbGJhclh1d2lKY3ZXWFhsRGZlTlBtUWhWWlRPY3hzWXdGR0V0dGUzbXJoeUlMNWZUX3Fma3p4NVRxTW5sTnZlTGc?oc=5",
+          "published": "2026-07-11T07:00:00+00:00",
+          "excerpt": "What Florida baseball’s Kyle Jones brings to Milwaukee Brewers Gainesville Sun",
           "image": ""
         }
       ],
