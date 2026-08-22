@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-21T13:38:42.774160+00:00",
+  "refreshedAt": "2026-08-22T13:25:13.279365+00:00",
   "sites": [
     {
       "name": "Florida Gators",
@@ -43,17 +43,17 @@
           "image": ""
         },
         {
-          "title": "MLB University: Gauging Florida’s Big-League Success",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjUzbHAxWVdMZllhTWRzamRSSjZHZjZoSWY3RmhVNi1DSFFJaEJjQU1TTjJqN2pqWGlCUlVsTmNpOUprdVZvZl91c2tLeTg5akRtenUzTzdwTUtua09XaXRwdDlUVl9KV1NZdEM1VlBHdmNLd1VsSk1nVk1PcVJ1NXBMZGNncXNaYk00Z0U2Y0l0YVptUWM2bzM0NjZma1JYVlE?oc=5",
-          "published": "2026-08-12T18:34:10+00:00",
-          "excerpt": "MLB University: Gauging Florida’s Big-League Success Florida Gators",
-          "image": ""
-        },
-        {
           "title": "Katy Johnson - Director (Gymnastics, Baseball) - Gymnastics Support Staff",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY09CYmZsTE9wUzdmWDFHbDE5Nml6a2Q3SGRFMm53ZXQxWG5iX1IwejBiajQ3VGRNcElvNVFlTi1mY2xVSF93MVY1NmZvSFloVUwyVGxJY01PUnk0WWhId0huMGdfRjNIRnhzSkZhbnNQUXRjODgyeFdVWjdyYlVXbWh3d0Y4OW5t?oc=5",
           "published": "2026-08-20T21:28:18+00:00",
           "excerpt": "Katy Johnson - Director (Gymnastics, Baseball) - Gymnastics Support Staff Florida Gators",
+          "image": ""
+        },
+        {
+          "title": "Adam Prida - Baseball",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTV2NpTHBJM0EzbTI0ek5zelRfUklXNE15LW80SGItenZhNWR3b0t5RGpvcWgxSGJQVkFHUFJtb0ZRMlhKQWRfM3h5T04yV0Zjd0Jkb1hOTUtDb0dEazFPNk9TeVZWbS1RQnRxb0xwQXJ5dw?oc=5",
+          "published": "2019-11-02T21:24:00+00:00",
+          "excerpt": "Adam Prida - Baseball Florida Gators",
           "image": ""
         }
       ],
@@ -78,13 +78,6 @@
       "kind": "google_news",
       "accent": "#fa4616",
       "posts": [
-        {
-          "title": "Gators Outfielder Hayden Yost Signs with Seattle Mariners",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWhLOGVKM21YT2ozc1BPaFI4MWhEOXEtSUJyaWU5Tm1zLXFodTQtQlhqbVJfSTBIQkxDcnItOE9felp4T3FYd2RQbXBHQ1RTVkdiRFV2UGM5MjcybXRBM2Q0N3lJdE1CeXF0U3lXUDRHYnpQN1RrUFVXUVk4NlpZMFh0LVNaTTlmd3l0X0tMQTFTcm9qZlYwSkJaam12SXU4WUE?oc=5",
-          "published": "2026-07-22T07:00:00+00:00",
-          "excerpt": "Gators Outfielder Hayden Yost Signs with Seattle Mariners ESPN – WRUF",
-          "image": ""
-        },
         {
           "title": "Florida Baseball Survives Rider Scare With Walk-Off Win",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmRkaWZMVE1Rb1BPWElhWElxcGJFcXVyY1pXNklKZjhia2tXV0pubG1ZWnh0T3dXWDJWSUhGa0pJTTJHejREcVJLX1lJbVZMdU5WTHkzUzVlWld6TmdzYmtHNzJoZi1nLVJmVGxUY3ZsSXYtZ0RNa1M4UUxzZ2M0S1NPUnVBYy1XaHc5U3VsTGZfQkVCUjFOV05UVEt1ME0?oc=5",
@@ -111,6 +104,13 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQURwNFdNeER6Z1lOU2l0SVlBTVhxS0VCUU9vMU9lc2t1ZWxlSlN5Nm9zLTVCYU96eVhfdW1RTlI2ZXpkUm9uU1hXR2IxbnJfZTgyRGVwOXdKX0daTEZHbFJZcUZ1cDFPMXB2M3FiMUFlRGFNbzhwM0FKYUM5MmFiVHkxM3ZQYkFMZ21TS1o1ZHg0UEwtcW14MG9TLXA3LW5mdzRZUGtsOGhXdDktZ1B0ZWFEUXdiYUlj?oc=5",
           "published": "2026-07-11T07:00:00+00:00",
           "excerpt": "Guardians Draft Florida’s Liam Peterson in First Round ESPN – WRUF",
+          "image": ""
+        },
+        {
+          "title": "Florida Pitcher Luke McNeillie Signs With New York Mets",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYW9XaHdTS1A2RmlrWHFOUWw0ZGw5SnVqMlVlbGxXSU9iQ3dpYW1kdHBtRVMzaVd0ZUJlbDdqNkxHMDVmQ2R3ZERVTXJ2am9jSDlWMkRDbU54YUJzMDVZM1AweVFEOEFmQ2ZEeVQ3N0JnWDVoVkpZM0pHYUp4cElITFlHVzAzNU1OSGNESXZjVnpZS1FPZDJpODdTX1lPWVE?oc=5",
+          "published": "2026-07-22T07:00:00+00:00",
+          "excerpt": "Florida Pitcher Luke McNeillie Signs With New York Mets ESPN – WRUF",
           "image": ""
         }
       ],
@@ -180,17 +180,17 @@
       "accent": "#0021a5",
       "posts": [
         {
-          "title": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXpOYkxzQkRNcDQtSFhZOGZ1OXpRS3VNZkw3Rk9LUXJlUTh4Y1dUdUFDa3Rna1IxcDY5LWtMaktjcGo0LUROYUU0MDhodnJMRG5lS1huY2otOEZiaTE0U0pncEh1X1dYd3hJNzRsWVd4MXV3LXlseEZsWG9RQ0RDY1V5NHAyenAteUZQY3VPWnNsOGZxX1lTcHU1dTItSVh4UEN2Z0wtRjNTejR5RzlnSlg0cDlJT21xckE?oc=5",
-          "published": "2026-07-30T07:00:00+00:00",
-          "excerpt": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball Sports Illustrated",
-          "image": ""
-        },
-        {
           "title": "Former Gators Baseball Star Experiencing Major League Breakout",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnZWak5aeUc3c0FTeXdIeVBnSW9Gc1Q4dkpHeUFybXR0Q255Um9sOHhJQXJTal9faENiUnROZi1vcmlnRmJ1VHd1akZNNm9ZOFpRM3AzOUROaFdQSWJlOUgtbmNkTUVnRTgzbzVGQkkwMlcwdlRhUVRJclFQWE56MHczc0hlQ0pwR2RhUW9MVjRGeDltWHZ4TWg0cGdLLXZXRjF1OVFSUS0xUQ?oc=5",
           "published": "2026-08-20T17:30:00+00:00",
           "excerpt": "Former Gators Baseball Star Experiencing Major League Breakout Sports Illustrated",
+          "image": ""
+        },
+        {
+          "title": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXpOYkxzQkRNcDQtSFhZOGZ1OXpRS3VNZkw3Rk9LUXJlUTh4Y1dUdUFDa3Rna1IxcDY5LWtMaktjcGo0LUROYUU0MDhodnJMRG5lS1huY2otOEZiaTE0U0pncEh1X1dYd3hJNzRsWVd4MXV3LXlseEZsWG9RQ0RDY1V5NHAyenAteUZQY3VPWnNsOGZxX1lTcHU1dTItSVh4UEN2Z0wtRjNTejR5RzlnSlg0cDlJT21xckE?oc=5",
+          "published": "2026-07-30T07:00:00+00:00",
+          "excerpt": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball Sports Illustrated",
           "image": ""
         },
         {
@@ -201,10 +201,10 @@
           "image": ""
         },
         {
-          "title": "What SEC Head Coaches Said About the Gators Baseball Team",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHROUzBaLUo1Q3BBbXVETm9HWG5kVTVFM01MOG9qUHNOOTJzQVBNd184T0RZUlRoTmphZm1LaGw3VlJJSjBvWjYwVE41N1pjQy1hQVF6ZGtYUDJMWmNHY0V4cDJEUm1HQnR0MWhTTUFkZlV6ek9QTkxDVVBKc0hhakM5TTc5YlJsTHZncDJVcVVzQWEzZldlMDVMRnV0aXVRNFNXXy1ORmhoS3ZkOW8w?oc=5",
-          "published": "2026-05-24T07:00:00+00:00",
-          "excerpt": "What SEC Head Coaches Said About the Gators Baseball Team Sports Illustrated",
+          "title": "How Florida Gators Baseball Replaces OF Blake Cyr",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnZiTU5GUENBNnZSdFFOT0RkYk9aR2cyV2tVaE5EdXhrSHJOUTROU0pDXzJidTVhWWZ2bzl1cG1VWXM1TVFIdzJsWXd0UHZGUHFrUXVZeUktbnI0NlB0R0g4SWhfdHRkWHFLWDdaQmRmRWI0Q1RUUDJTM3RxeEJLQ3g5dG5KMjlEVUdtQmZRNjFsZWpWejdjYzY4WHdHRW5qODlpbGJJZ3p3dw?oc=5",
+          "published": "2026-07-21T07:00:00+00:00",
+          "excerpt": "How Florida Gators Baseball Replaces OF Blake Cyr Sports Illustrated",
           "image": ""
         },
         {
