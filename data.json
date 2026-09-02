@@ -1,271 +1,913 @@
 {
-  "refreshedAt": "2026-09-01T17:04:36.615754+00:00",
-  "sites": [
+  "refreshedAt": "2026-09-01T22:55:21.657167-04:00",
+  "posts": [
+    {
+      "title": "Gators Boast SEC’s Most-Experienced Baseball Staff",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHlXS1VpT3lKT0xPUk5xS1g4UWppeDBJX0RVRHRUeGZRUE55dkhZWmNXTU83THZTaEYyekxMVWZ2RWtZdWVjUWdkb0IyajdSU25NQ2tST3JKeFpFQ2N2WDFlV1o4cXFGdnIzZ05VYkNHTy1CWEJBY0lsd2p1S1NhR21jMTA5bFJzU09CQW5aRWdHNV9P?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-08-26T13:08:44+00:00",
+      "excerpt": "Gators Boast SEC’s Most-Experienced Baseball Staff Florida Gators",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Florida Gators",
+      "sourceUrl": "https://floridagators.com/sports/baseball"
+    },
+    {
+      "title": "How Gators Performed in Summer Ball",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/how-gators-performed-in-summer-ball/",
+      "published": "2026-08-13T21:27:32+00:00",
+      "excerpt": "Summer baseball leagues are mostly wrapped up around the country, so it’s time to check in and see how the Florida Gators performed at their various summer assignments. RHP Aidan King – USA Collegiate National Team Flori",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Aidan-King-vs.-Ole-Miss.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "“We’ve got to dominate the zone”: Rich Dorman details pitching philosophy",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/weve-got-to-dominate-the-zone-rich-dorman-details-pitching-philosophy/",
+      "published": "2026-08-08T21:12:00+00:00",
+      "excerpt": "Florida baseball put together an impressive offseason, which included roster retention, portal acquisitions, winning the MLB Draft, and several key coaching additions. Looking to make a change at pitching coach after yea",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2025/06/Florida-Gators-Baseball_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0008-1.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "Gators to Play Fall Baseball Exhibition in Pensacola",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkg5Q3g2T0FwR09mNmNpOGxGS2lubndGWFIxUmxlNzc1Qm40U054QmdpSU1QZ25rVkRONGFKVGZsVUdCdWNUeGZGNlEzQl9Na2MyWk9mVThSSTRKR1NhNFhweVhyOVhReVRodU9nekt3bi1IdWh2RlFWclZuNXZVV3BfVmdkRURNTTRsbTdCWDZEbW0xLUZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-08-04T07:00:00+00:00",
+      "excerpt": "Gators to Play Fall Baseball Exhibition in Pensacola Florida Gators",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Florida Gators",
+      "sourceUrl": "https://floridagators.com/sports/baseball"
+    },
+    {
+      "title": "Florida baseball’s key returners set stage for 2027 Omaha push",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnZXX2tSWFo1elpJX3JuZ2Fja1VrVFBMVFAyUElUV1E3dTJwaUlGdEV3bGwzNTVzSUJ3Qk1EbUlZS0lYLUFKR0dHZV9yWWdfWXRCdGNUSkRlUmJMRHh4NWstYUc4NHp1OG9iLTh2SHhHbGpyekhNR0paWjZpVllVcXBqMmx1cmtET2NiNUJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-27T07:00:00+00:00",
+      "excerpt": "Florida baseball’s key returners set stage for 2027 Omaha push The Independent Florida Alligator",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "The Independent Florida Alligator",
+      "sourceUrl": "https://www.alligator.org/section/sports"
+    },
+    {
+      "title": "Checking in on Florida alumnus Pete Alonso's 2026 MLB season",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM0prNVNVNHkzMWhkd1AtY1ZUeFVqU0NuMEVqcmlWU0dqYVJ1cTdYQnBRdEE4WFVsWmI1SVUtUkplUHR5bl9ndHExTjNXZDdQemRGZU9waS1XbU9XMFFzSnhmblA4T3A2Rk85YXFGWWJVZ3VTMXppQkN6V3RYbEI3Skl0R095TWh4WnptdTJWUEM4M0lnN0pTWHY3ZjhfYUY0a2h1MlBZSjQwZHViX2RJY3loRW80eWpuMHFDMXl6eUdJOXpOM2Z5aWVULVBHT2htR05zRHFMeGdoalZfak9zRm90Yk1hSWNwR1Jj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-25T07:00:00+00:00",
+      "excerpt": "Checking in on Florida alumnus Pete Alonso's 2026 MLB season Gators Wire",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Gators Wire",
+      "sourceUrl": "https://gatorswire.usatoday.com/"
+    },
+    {
+      "title": "Gators Signee Kevin Roberts Jr. Signs Deal Contract With Baltimore Orioles",
+      "url": "https://www.wruf.com/headlines/2026/07/24/gators-signee-kevin-roberts-jr-signs-deal-contract-with-baltimore-orioles/",
+      "published": "2026-07-24T18:02:42+00:00",
+      "excerpt": "Gators baseball is missing out on signee Kevin Roberts Jr. for a major price tag. Roberts inked a deal Wednesday with the Baltimore Orioles after getting taken in the fourth round of the 2026 MLB Draft. The slot value fo",
+      "image": "",
+      "source": "WRUF Sports",
+      "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
+    },
+    {
+      "title": "Florida Baseball MLB Draft Signing Bonus Tracker",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseball-mlb-draft-signing-bonus-tracker/",
+      "published": "2026-07-20T17:50:54+00:00",
+      "excerpt": "The Florida Gators had six players selected in the 2026 MLB Draft, and all six have signed with their respective organizations. Below is Gator Country’s signing bonus tracker. RHP Liam Peterson Junior Liam Peterson was s",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2024/10/Florida-Gators-pitcher-Luke-McNeillie-9_University-of-Florida-Gators-Baseball-vs-Columbia_0075.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "Florida emerges largely intact after 2026 MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVRVLU1oV2ZvRjVUYVpJT3otQ3FwVXZTLVE5MGJzRlhRdVVwSWRuYmNEcHZtRVJnaXB4b1NiT0N1NFE5bHQ2S2Y0ekZqa1A1ZExxSVV4c0RjTDB4SUxFZl81TUVRVGlhTEZRdjhCZ0ZoOE1GRzF2NjNNMFlCZ2Q2QnY4eVNZOTRhWHl2WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-20T07:00:00+00:00",
+      "excerpt": "Florida emerges largely intact after 2026 MLB Draft The Independent Florida Alligator",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "The Independent Florida Alligator",
+      "sourceUrl": "https://www.alligator.org/section/sports"
+    },
+    {
+      "title": "Florida Gators in MLB: 2026 Midseason Check-In",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-gators-in-mlb-2026-midseason-check-in/",
+      "published": "2026-07-16T20:19:48+00:00",
+      "excerpt": "With MLB at the All-Star break, it’s time to check in on how the former Gators are performing in 2026. Florida had a nation-leading 12 players on Opening Day rosters, while 16 total former Gators have made appearances in",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2023/04/Florida-Gators-outfielder-Wyatt-Langford_University-of-Florida-Gators-Baseball-vs-Miami-Hurricanes_564.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "Florida Baseball’s Way-Too-Early Projected Lineup",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseballs-way-too-early-projected-lineup-and-depth-chart/",
+      "published": "2026-07-13T19:19:20+00:00",
+      "excerpt": "With the 2026 MLB Draft now complete, we can begin to gain a clearer picture of what Florida Baseball’s roster will look like in 2027. The Gators can still add players through the transfer portal, but with 38 players alr",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/07/Brendan-Lawson-infield.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "Florida Wins at the 2026 MLB Draft: A Review",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-wins-at-the-2026-mlb-draft-a-review/",
+      "published": "2026-07-13T15:13:17+00:00",
+      "excerpt": "Florida emerged as one of the biggest winners of the 2026 MLB Draft, as just one of its 12 high school signees was drafted and several key draft-eligible players remained on track to return to Gainesville. Let’s start wi",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2023/03/Florida-Gators-baseball-head-coach-Kevin-OSullivan_University-of-Florida-Gators-Baseball-vs-Charleston-Southern-University_013-1.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "3 more Gators selected on Day 2 of MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkd4YVBVc0h2cWVRNTF5ck40N1NIRmd1Qk1UNGFWMHNFajlucnpIRzY1a29FU3JCek5DeFo2Y1JSWHZXS2Q3V1l1LURjdXJPSmRlWDlXWXVILWZ0a0RIRElOTG1NXzhaS1JVakhqdWZfellIbGNYcEIxNVdGTkhxT1BCaFdPY2xid1dXNFI5T3I1R3o0QTM1UmFKc1R0YVFtVnNYTDVYUFE1Q2xlbDRhdTFXMmkxczIyX3lJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-13T07:00:00+00:00",
+      "excerpt": "3 more Gators selected on Day 2 of MLB Draft The Independent Florida Alligator",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "The Independent Florida Alligator",
+      "sourceUrl": "https://www.alligator.org/section/sports"
+    },
+    {
+      "title": "Florida INF Ethan Surowiec Returning for Junior Season",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-inf-ethan-surowiec-returning-for-junior-season/",
+      "published": "2026-07-12T23:34:26+00:00",
+      "excerpt": "Florida Gators infielder Ethan Surowiec will return to Florida for his junior season, he announced on social media. Surowiec was draft-eligible following his sophomore season, during which he posted a .317/.409/.528 slas",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/03/Ethan-Surowiec.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "2026 MLB Draft: OF Blake Cyr selected in the 18th round by New York Yankees",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-of-blake-cyr-selected-in-the-18th-round-by-new-york-yankees/",
+      "published": "2026-07-12T22:21:07+00:00",
+      "excerpt": "Florida senior outfielder Blake Cyr was selected by the New York Yankees with the 548th overall pick in the 18th round of the 2026 MLB Draft on Sunday. Cyr is the sixth Gator to have his named called at this year’s MLB D",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Blake-Cyr.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "2026 MLB Draft: Florida outfielder Hayden Yost selected No. 162 overall by Seattle Mariners",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-florida-outfielder-hayden-yost-selected-no-162-overall-by-seattle-mariners/",
+      "published": "2026-07-12T17:13:13+00:00",
+      "excerpt": "The first real surprise for the Gators in the 2026 MLB Draft came when Hayden Yost was selected by the Seattle Mariners in the fifth round with the 162nd overall pick. The 6’1, 200-pound outfielder was not included in Ba",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2025/05/Florida-outfielder-Hayden-Yost-16_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0097.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "2026 MLB Draft: RHP Luke McNeillie selected 152nd overall by the New York Mets",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-rhp-luke-mcneillie-selected-xxx-overall-by-the-xxx/",
+      "published": "2026-07-12T15:52:57+00:00",
+      "excerpt": "Florida right-handed pitcher Luke McNeillie was selected by the New York Mets with 152nd overall pick in the fifth round of the 2026 MLB Draft. Despite having his innings limited by injury, McNeillie put together a caree",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2025/03/Florida-pitcher-Luke-McNeillie-9_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0084.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "McNeillie, Yost Picked in MLB Draft’s Fifth Round",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGhYS21QMGZGWVlCc2dSNlRReDQ4eEVJQnB1czAwaF9MUXVzQlJlUTh0VkhaQ2xhUkhhTEY5TWR3N3JLOWFHWW1qZ0c4YXZlWEgyeDRycjl6SmV2RkNvUWRkVVpza3lzY2dVMDZXWHd6U3hFdkR5dUNOR1hJUGNCN1N4NTdYelNyWGxPZVFCUDI0a3FpT3d0bWpteHZMU1pQVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-12T07:00:00+00:00",
+      "excerpt": "McNeillie, Yost Picked in MLB Draft’s Fifth Round Florida Gators",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Florida Gators",
+      "sourceUrl": "https://floridagators.com/sports/baseball"
+    },
+    {
+      "title": "Florida INF Ethan Surowiec returning to Gators following 2026 MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZEdtTV9hWWM1VDZDQklSMGhUenVsZDVPbm1DZzY4TjlLX3VzY3NnQkI1Q1pfeDVYVmhkeGUyVlNDdzBTcEVsQU9GVGtXSzQ2QVdCMXJndUFBNXZxb3AxZ2VEUkVqaERVUDRtOTR2R2wtV0R1SkoxLXdNejZjSGpaTmc2bGphc1pOSS1uT2IzRDhwWDlDeURJMldMcUIxRkd0X0VqUWlUbkJKd3VDVjlpVDVsUEJBb1k5cG1sS3owSDFab2RnRmphc1BMS2tLZ3lrMU5iek92OHRKcmhQNXdN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-12T07:00:00+00:00",
+      "excerpt": "Florida INF Ethan Surowiec returning to Gators following 2026 MLB Draft 247Sports",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Swamp247",
+      "sourceUrl": "https://247sports.com/college/florida/"
+    },
+    {
+      "title": "Florida's Luke McNeillie selected in fifth round by New York Mets in 2026 MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamEtUVFsSkg5bElNWmhSNU1Wdm0tUFU5cDNITmtidHgzWFE2bmtoUWloVUlpcjR3Tk1IQ09mQmpMVjZkY0ViTEJGd1VpbjRwS2Y5bm5KNm5FQUVvOGxoOS1LY1EtSDJRem9ycEg2UHoza1FwXzBSeWZqdlR3U0cySDBramNzcl81MTlQa0taeFJidk5PTkZFZGEyNmVMNXhIOXlVVW1EcFczWlJ1NWdQYW80V1diM19qazBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-12T07:00:00+00:00",
+      "excerpt": "Florida's Luke McNeillie selected in fifth round by New York Mets in 2026 MLB Draft 247Sports",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Swamp247",
+      "sourceUrl": "https://247sports.com/college/florida/"
+    },
+    {
+      "title": "Florida OF Blake Cyr selected in 18th round of 2026 MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3puYVNGellfbnA3YWRfLTgtbWF4X1E4aS1SWWdHQXN6WGR2cC1XWlZ4ZTRiZ2xqcjFDQTBsZWVBVFlvWTRhV0c4b2R1eS1DWW9nVTNLQ1B0OUJQYkRiTjlmV3NSSXFqUHpLU2hGOFFFY0tlVzBlVDRiTnNNMy0wMFR5NGI0QXFDMDZzQXJGUlBIRkhIZWhodkJwcWwtUElYOU5FWWd3Sk5KYllNV1BnU2NLaFM4azVaYjFtWG1fU2o1ZGx1aXBqbnI1X0hPWFk4SXF5R0FWQl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-12T07:00:00+00:00",
+      "excerpt": "Florida OF Blake Cyr selected in 18th round of 2026 MLB Draft 247Sports",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Swamp247",
+      "sourceUrl": "https://247sports.com/college/florida/"
+    },
+    {
+      "title": "2026 MLB Draft: RHP Russell Sandefer selected 132nd overall by Los Angeles Dodgers",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-rhp-russell-sandefer-selected-132nd-overall-by-los-angeles-dodgers/",
+      "published": "2026-07-12T00:34:20+00:00",
+      "excerpt": "Florida right-handed pitcher Russell Sandefer was selected with the No. 132 overall pick by the Los Angeles Dodgers in the fourth round of the 2026 MLB Draft. With Sandefer’s selection, the Orange & Blue has recorded at ",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Russell-Sandefer.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "2026 MLB Draft: OF Kyle Jones selected 102nd overall by the Milwaukee Brewers",
+      "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-of-kyle-jones-selected-102nd-overall-by-the-milwaukee-brewers/",
+      "published": "2026-07-12T00:24:48+00:00",
+      "excerpt": "Florida outfielder Kyle Jones was selected with the No. 102 overall pick by the Milwaukee Brewers in the third round of the 2026 MLB Draft on Saturday. The Gators have had multiple players selected in every draft since 1",
+      "image": "https://www.gatorcountry.com/wp-content/uploads/2026/05/Kyle-Jones-walk-off.jpg",
+      "source": "GatorCountry",
+      "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+    },
+    {
+      "title": "Dodgers Select Sandefer in Fourth Round of MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXVlTkpBdHdxN1B4UEZWLW5UNS1zZ3hHbUVoOHlxYWJhZXlFTXlrVng5YUc3NHpCZ0N2d3VhUTY3Mk9adVNvQ0ZURmtyenNIc0R2UEZ6WVEwTi1hRTRBU0xWN0t4RHk0MTRwUHdfYzJraTYwT2NrNU5zeWpOZnc3SlVYdGNjaWZkS3ZXWGhZdXdvX2FqUlprNW1kTmg1TTRVS3NUaA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-11T07:00:00+00:00",
+      "excerpt": "Dodgers Select Sandefer in Fourth Round of MLB Draft Florida Gators",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Florida Gators",
+      "sourceUrl": "https://floridagators.com/sports/baseball"
+    },
+    {
+      "title": "Florida's Liam Peterson selected in first round by Cleveland Guardians in 2026 MLB Draft",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU01SUtPMEZ3YXhPMWplOHkyUEEwTUtidkd3V1JKclRMMWFCVGQ0blFHUXdpMDZOWFo5bFRJbGx3MVFsVks0Umtrb3pwcl9tX3pza1piY1p6NTNCRGVLV2hlbmFQY2Q5RDZuTTBLT1VaZ1dmSXNabmJTTGtJbzNHamIwYThfWVVWOEt6V3pfRWk0ZnhXblFDYlkwSVhua2YwSGliNEp1WHpIUk5fa2FUOTZoMkVqOXZlRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "published": "2026-07-11T07:00:00+00:00",
+      "excerpt": "Florida's Liam Peterson selected in first round by Cleveland Guardians in 2026 MLB Draft 247Sports",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Swamp247",
+      "sourceUrl": "https://247sports.com/college/florida/"
+    }
+  ],
+  "sources": [
     {
       "name": "Florida Gators",
       "url": "https://floridagators.com/sports/baseball",
       "query": "site:floridagators.com baseball",
+      "kind": "news",
       "keywords": [
         "baseball",
-        "mlb",
-        "bowen",
-        "strayer",
-        "cyr",
-        "mcneillie",
-        "yost",
-        "sandefer",
-        "peterson",
-        "dukes"
+        "mlb"
       ],
-      "logo": "https://floridagators.com/favicon.ico",
-      "kind": "google_news",
-      "accent": "#fa4616",
       "posts": [
         {
           "title": "Gators Boast SEC’s Most-Experienced Baseball Staff",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHlXS1VpT3lKT0xPUk5xS1g4UWppeDBJX0RVRHRUeGZRUE55dkhZWmNXTU83THZTaEYyekxMVWZ2RWtZdWVjUWdkb0IyajdSU25NQ2tST3JKeFpFQ2N2WDFlV1o4cXFGdnIzZ05VYkNHTy1CWEJBY0lsd2p1S1NhR21jMTA5bFJzU09CQW5aRWdHNV9P?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHlXS1VpT3lKT0xPUk5xS1g4UWppeDBJX0RVRHRUeGZRUE55dkhZWmNXTU83THZTaEYyekxMVWZ2RWtZdWVjUWdkb0IyajdSU25NQ2tST3JKeFpFQ2N2WDFlV1o4cXFGdnIzZ05VYkNHTy1CWEJBY0lsd2p1S1NhR21jMTA5bFJzU09CQW5aRWdHNV9P?oc=5&hl=en-US&gl=US&ceid=US:en",
           "published": "2026-08-26T13:08:44+00:00",
           "excerpt": "Gators Boast SEC’s Most-Experienced Baseball Staff Florida Gators",
-          "image": ""
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         },
         {
           "title": "Gators to Play Fall Baseball Exhibition in Pensacola",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkg5Q3g2T0FwR09mNmNpOGxGS2lubndGWFIxUmxlNzc1Qm40U054QmdpSU1QZ25rVkRONGFKVGZsVUdCdWNUeGZGNlEzQl9Na2MyWk9mVThSSTRKR1NhNFhweVhyOVhReVRodU9nekt3bi1IdWh2RlFWclZuNXZVV3BfVmdkRURNTTRsbTdCWDZEbW0xLUZV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkg5Q3g2T0FwR09mNmNpOGxGS2lubndGWFIxUmxlNzc1Qm40U054QmdpSU1QZ25rVkRONGFKVGZsVUdCdWNUeGZGNlEzQl9Na2MyWk9mVThSSTRKR1NhNFhweVhyOVhReVRodU9nekt3bi1IdWh2RlFWclZuNXZVV3BfVmdkRURNTTRsbTdCWDZEbW0xLUZV?oc=5&hl=en-US&gl=US&ceid=US:en",
           "published": "2026-08-04T07:00:00+00:00",
           "excerpt": "Gators to Play Fall Baseball Exhibition in Pensacola Florida Gators",
-          "image": ""
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         },
         {
-          "title": "Baseball America Names Lawson, King and McDonald All-Americans",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSW5ScVNPbkx1RE9nNzdiY3V2R1paU1ZLazFJRGJnSmlmYXNybXhVdHZ4MFI4OVVuekNWSy1PWEZUMHI4RWpHaHJoZ2cxWVdBUnVYN0YyM1Q3eTJmVWhIZVhoQ3gtal9NSU8tMWhaU1RMcUJPZjlOWkI2MW1KVktleVZaUldVQUxVVV9tWDVNRmY1RVBIdHMzazZEMk1TMUNWb0hnQ0pTRkxEeE1aLXY0?oc=5",
-          "published": "2026-06-12T07:00:00+00:00",
-          "excerpt": "Baseball America Names Lawson, King and McDonald All-Americans Florida Gators",
-          "image": ""
+          "title": "McNeillie, Yost Picked in MLB Draft’s Fifth Round",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGhYS21QMGZGWVlCc2dSNlRReDQ4eEVJQnB1czAwaF9MUXVzQlJlUTh0VkhaQ2xhUkhhTEY5TWR3N3JLOWFHWW1qZ0c4YXZlWEgyeDRycjl6SmV2RkNvUWRkVVpza3lzY2dVMDZXWHd6U3hFdkR5dUNOR1hJUGNCN1N4NTdYelNyWGxPZVFCUDI0a3FpT3d0bWpteHZMU1pQVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "McNeillie, Yost Picked in MLB Draft’s Fifth Round Florida Gators",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         },
         {
-          "title": "Florida Baseball Bolsters Staff with Pitching Coach Rich Dorman",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX09JbTZkT3l0TGtyUW1GaklEQU84Z1FzUklvQmpmZjRWcER0N3BoOUJISEs4SGxKMHFVYTdwUmpPaTR4V0Z0QlFiaTNESVNlRFk1ODh3UmpYRnU2S1NIaG9MNi1vWlIySVBkMTlYY29WMy1CdmZCTFMxM0NlUFpTdkVkR0hlTVZVVWdOMmZRQ2hDbEVIdlhnQUg3MFBlODhoRTFMV1VmZw?oc=5",
-          "published": "2026-06-15T07:00:00+00:00",
-          "excerpt": "Florida Baseball Bolsters Staff with Pitching Coach Rich Dorman Florida Gators",
-          "image": ""
+          "title": "Nation-Leading 12 Gators on MLB Opening Day Rosters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2lXSk81Rzh6U20wbUw2ZFlxSmpPWVJyT0p0cEVvSFRxTHVWcEtwVXh6N0E4eDJ5S0I2WFZRdDJzc0F2MUxCWWRNMWczMXk5TTZXb0lsZDBIRFQzZVRRc2c2WGVGUGx1NFVBRkc2bHhZNU9GeTZGWHdXUWZfb1hhZUN4LTBTZFk3ejVfa1I5M24xbjAwM0FOdjBDWDJWQjAyTENF?oc=5",
+          "published": "2026-03-27T07:00:00+00:00",
+          "excerpt": "Nation-Leading 12 Gators on MLB Opening Day Rosters Florida Gators",
+          "image": "",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         },
         {
-          "title": "College Baseball Foundation Dubs King Pitcher of the Year Finalist",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0lCVFpScmdBZEVvRTVid2xwVEFERUFZTy0zU2h4bTJkX1hrRU9RYXlFQTYtekExOFJSZXlORnBydWtxWHV2bWFBM1A1Ti1jclZ4cUJ6SDcxYi1oVzA2RWg4NkI5R1ctNVJQWi0xbzZxOGpzZGNmdURINU4yNnRaOGJPc195QVhLTm5UM2JhRS1aOTBQS252N2xWX0RFcGQ3VjZlNngyU2RqQQ?oc=5",
-          "published": "2026-06-04T07:00:00+00:00",
-          "excerpt": "College Baseball Foundation Dubs King Pitcher of the Year Finalist Florida Gators",
-          "image": ""
-        }
-      ],
-      "status": "ok"
-    },
-    {
-      "name": "WRUF",
-      "url": "https://www.wruf.com/",
-      "query": "site:wruf.com Florida baseball",
-      "keywords": [
-        "baseball",
-        "mlb",
-        "bowen",
-        "strayer",
-        "cyr",
-        "mcneillie",
-        "yost",
-        "sandefer",
-        "peterson"
-      ],
-      "logo": "https://www.wruf.com/favicon.ico",
-      "kind": "google_news",
-      "accent": "#fa4616",
-      "posts": [
-        {
-          "title": "baseball",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nWXJodVdPM3ViZHFIZjRCektIS1VTNU9jeTZQWVpDVkVjUTB4RERFZ010QUJodWJDcjBsQ0xDYUZzM1VvaGIteTRFXy1reVpPZEhBSFUzOA?oc=5",
-          "published": "2020-05-14T01:27:47+00:00",
-          "excerpt": "baseball ESPN – WRUF",
-          "image": ""
-        },
-        {
-          "title": "Guardians Draft Florida’s Liam Peterson in First Round",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQURwNFdNeER6Z1lOU2l0SVlBTVhxS0VCUU9vMU9lc2t1ZWxlSlN5Nm9zLTVCYU96eVhfdW1RTlI2ZXpkUm9uU1hXR2IxbnJfZTgyRGVwOXdKX0daTEZHbFJZcUZ1cDFPMXB2M3FiMUFlRGFNbzhwM0FKYUM5MmFiVHkxM3ZQYkFMZ21TS1o1ZHg0UEwtcW14MG9TLXA3LW5mdzRZUGtsOGhXdDktZ1B0ZWFEUXdiYUlj?oc=5",
+          "title": "Dodgers Select Sandefer in Fourth Round of MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXVlTkpBdHdxN1B4UEZWLW5UNS1zZ3hHbUVoOHlxYWJhZXlFTXlrVng5YUc3NHpCZ0N2d3VhUTY3Mk9adVNvQ0ZURmtyenNIc0R2UEZ6WVEwTi1hRTRBU0xWN0t4RHk0MTRwUHdfYzJraTYwT2NrNU5zeWpOZnc3SlVYdGNjaWZkS3ZXWGhZdXdvX2FqUlprNW1kTmg1TTRVS3NUaA?oc=5&hl=en-US&gl=US&ceid=US:en",
           "published": "2026-07-11T07:00:00+00:00",
-          "excerpt": "Guardians Draft Florida’s Liam Peterson in First Round ESPN – WRUF",
-          "image": ""
+          "excerpt": "Dodgers Select Sandefer in Fourth Round of MLB Draft Florida Gators",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         },
         {
-          "title": "Florida Pitcher Luke McNeillie Signs With New York Mets",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYW9XaHdTS1A2RmlrWHFOUWw0ZGw5SnVqMlVlbGxXSU9iQ3dpYW1kdHBtRVMzaVd0ZUJlbDdqNkxHMDVmQ2R3ZERVTXJ2am9jSDlWMkRDbU54YUJzMDVZM1AweVFEOEFmQ2ZEeVQ3N0JnWDVoVkpZM0pHYUp4cElITFlHVzAzNU1OSGNESXZjVnpZS1FPZDJpODdTX1lPWVE?oc=5",
-          "published": "2026-07-22T07:00:00+00:00",
-          "excerpt": "Florida Pitcher Luke McNeillie Signs With New York Mets ESPN – WRUF",
-          "image": ""
-        },
-        {
-          "title": "2026 MLB Draft Tracker: Florida Gators Signings",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWV9teHc2dWdNU0dRWlVWNzdjNWROUWl1aFBWZkJKc25ZdERCTGRMY3NJMUZXSEYtRkI3SHhFMVFoVlh2MWV3TFBMOXhyb0lENkxLeE5IZ3lxdmEwVEdNbVJLN2NjSHp3RDRtQ0EtcGVQd0lTZzY5dFRJcXMzbXVIYlRBRkVnczJvQU1EUXQycWNuOGM?oc=5",
-          "published": "2026-07-22T07:00:00+00:00",
-          "excerpt": "2026 MLB Draft Tracker: Florida Gators Signings ESPN – WRUF",
-          "image": ""
-        },
-        {
-          "title": "Three Gators Selected to USA Baseball Collegiate National Team",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVo4OHpHZXdyT1NuR1hobG9BVDdDOTkzcjdmVUVuYlJZamJvc3NsWXEwZmR1ZlVPX3VBckIzWXVKUlhCYkpfN2hEdUxWS0c5aFQzTzh1TnR2QXVGa1N1dnZIODY0dGFfVVAxQUJGdzBwS3NXWVN0ZGtJUjBFWWI3NXIwMVNGX2FvYU9PRmE2alBKMDVfaUlFcUlySmJVR2ZhbGRNRERsZFc?oc=5",
-          "published": "2026-07-06T07:00:00+00:00",
-          "excerpt": "Three Gators Selected to USA Baseball Collegiate National Team ESPN – WRUF",
-          "image": ""
+          "title": "Men's Nike Royal Florida Gators Baseball Limited Jersey",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmN1SVdjMjFWNEFvT2FoYUdwMVBLOWlTX1JUNEptWDh6Nm9nOS1NdUVfNU1wVWNTY3YtOXFnUXU4bExEQnNld2hqQnpVQURjdlB2SGYzaWg0WDlwTFp4cU1Da09DQ2xFN1ZtU3hzX0pNenFJWHhIcEw4X196a1JCM0l2QnU1bnhvSUxuTUNROHFkQXQ3NHU0cTNBLTBYSjNHQWR1NzZ0clpYaXFGaTlRSHgtaHhoaFRmRE1IbGQ1SQ?oc=5",
+          "published": "2026-02-02T21:23:39+00:00",
+          "excerpt": "Men's Nike Royal Florida Gators Baseball Limited Jersey Gator Sports Shop",
+          "image": "",
+          "source": "Florida Gators",
+          "sourceUrl": "https://floridagators.com/sports/baseball"
         }
       ],
       "status": "ok"
     },
     {
-      "name": "Gator Country",
+      "name": "GatorCountry",
       "url": "https://www.gatorcountry.com/florida-gators-baseball/",
       "feed": "https://www.gatorcountry.com/florida-gators-baseball/feed/",
-      "logo": "https://www.gatorcountry.com/favicon.ico",
       "kind": "feed",
-      "accent": "#0021a5",
+      "keywords": [],
       "posts": [
         {
           "title": "How Gators Performed in Summer Ball",
           "url": "https://www.gatorcountry.com/florida-gators-baseball/how-gators-performed-in-summer-ball/",
           "published": "2026-08-13T21:27:32+00:00",
           "excerpt": "Summer baseball leagues are mostly wrapped up around the country, so it’s time to check in and see how the Florida Gators performed at their various summer assignments. RHP Aidan King – USA Collegiate National Team Flori",
-          "image": ""
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Aidan-King-vs.-Ole-Miss.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
         },
         {
           "title": "“We’ve got to dominate the zone”: Rich Dorman details pitching philosophy",
           "url": "https://www.gatorcountry.com/florida-gators-baseball/weve-got-to-dominate-the-zone-rich-dorman-details-pitching-philosophy/",
           "published": "2026-08-08T21:12:00+00:00",
           "excerpt": "Florida baseball put together an impressive offseason, which included roster retention, portal acquisitions, winning the MLB Draft, and several key coaching additions. Looking to make a change at pitching coach after yea",
-          "image": ""
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2025/06/Florida-Gators-Baseball_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0008-1.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
         },
         {
           "title": "Florida Baseball MLB Draft Signing Bonus Tracker",
           "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseball-mlb-draft-signing-bonus-tracker/",
           "published": "2026-07-20T17:50:54+00:00",
           "excerpt": "The Florida Gators had six players selected in the 2026 MLB Draft, and all six have signed with their respective organizations. Below is Gator Country’s signing bonus tracker. RHP Liam Peterson Junior Liam Peterson was s",
-          "image": ""
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2024/10/Florida-Gators-pitcher-Luke-McNeillie-9_University-of-Florida-Gators-Baseball-vs-Columbia_0075.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
         },
         {
           "title": "Florida Gators in MLB: 2026 Midseason Check-In",
           "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-gators-in-mlb-2026-midseason-check-in/",
           "published": "2026-07-16T20:19:48+00:00",
           "excerpt": "With MLB at the All-Star break, it’s time to check in on how the former Gators are performing in 2026. Florida had a nation-leading 12 players on Opening Day rosters, while 16 total former Gators have made appearances in",
-          "image": ""
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2023/04/Florida-Gators-outfielder-Wyatt-Langford_University-of-Florida-Gators-Baseball-vs-Miami-Hurricanes_564.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
         },
         {
           "title": "Florida Baseball’s Way-Too-Early Projected Lineup",
           "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-baseballs-way-too-early-projected-lineup-and-depth-chart/",
           "published": "2026-07-13T19:19:20+00:00",
           "excerpt": "With the 2026 MLB Draft now complete, we can begin to gain a clearer picture of what Florida Baseball’s roster will look like in 2027. The Gators can still add players through the transfer portal, but with 38 players alr",
-          "image": ""
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/07/Brendan-Lawson-infield.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "Florida Wins at the 2026 MLB Draft: A Review",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-wins-at-the-2026-mlb-draft-a-review/",
+          "published": "2026-07-13T15:13:17+00:00",
+          "excerpt": "Florida emerged as one of the biggest winners of the 2026 MLB Draft, as just one of its 12 high school signees was drafted and several key draft-eligible players remained on track to return to Gainesville. Let’s start wi",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2023/03/Florida-Gators-baseball-head-coach-Kevin-OSullivan_University-of-Florida-Gators-Baseball-vs-Charleston-Southern-University_013-1.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "Florida INF Ethan Surowiec Returning for Junior Season",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/florida-inf-ethan-surowiec-returning-for-junior-season/",
+          "published": "2026-07-12T23:34:26+00:00",
+          "excerpt": "Florida Gators infielder Ethan Surowiec will return to Florida for his junior season, he announced on social media. Surowiec was draft-eligible following his sophomore season, during which he posted a .317/.409/.528 slas",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/03/Ethan-Surowiec.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "2026 MLB Draft: OF Blake Cyr selected in the 18th round by New York Yankees",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-of-blake-cyr-selected-in-the-18th-round-by-new-york-yankees/",
+          "published": "2026-07-12T22:21:07+00:00",
+          "excerpt": "Florida senior outfielder Blake Cyr was selected by the New York Yankees with the 548th overall pick in the 18th round of the 2026 MLB Draft on Sunday. Cyr is the sixth Gator to have his named called at this year’s MLB D",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Blake-Cyr.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "2026 MLB Draft: Florida outfielder Hayden Yost selected No. 162 overall by Seattle Mariners",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-florida-outfielder-hayden-yost-selected-no-162-overall-by-seattle-mariners/",
+          "published": "2026-07-12T17:13:13+00:00",
+          "excerpt": "The first real surprise for the Gators in the 2026 MLB Draft came when Hayden Yost was selected by the Seattle Mariners in the fifth round with the 162nd overall pick. The 6’1, 200-pound outfielder was not included in Ba",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2025/05/Florida-outfielder-Hayden-Yost-16_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0097.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "2026 MLB Draft: RHP Luke McNeillie selected 152nd overall by the New York Mets",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-rhp-luke-mcneillie-selected-xxx-overall-by-the-xxx/",
+          "published": "2026-07-12T15:52:57+00:00",
+          "excerpt": "Florida right-handed pitcher Luke McNeillie was selected by the New York Mets with 152nd overall pick in the fifth round of the 2026 MLB Draft. Despite having his innings limited by injury, McNeillie put together a caree",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2025/03/Florida-pitcher-Luke-McNeillie-9_University-of-Florida-Gators-Baseball-vs-Georgia-Bulldogs_0084.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "2026 MLB Draft: RHP Russell Sandefer selected 132nd overall by Los Angeles Dodgers",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-rhp-russell-sandefer-selected-132nd-overall-by-los-angeles-dodgers/",
+          "published": "2026-07-12T00:34:20+00:00",
+          "excerpt": "Florida right-handed pitcher Russell Sandefer was selected with the No. 132 overall pick by the Los Angeles Dodgers in the fourth round of the 2026 MLB Draft. With Sandefer’s selection, the Orange & Blue has recorded at ",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/04/Russell-Sandefer.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
+        },
+        {
+          "title": "2026 MLB Draft: OF Kyle Jones selected 102nd overall by the Milwaukee Brewers",
+          "url": "https://www.gatorcountry.com/florida-gators-baseball/2026-mlb-draft-of-kyle-jones-selected-102nd-overall-by-the-milwaukee-brewers/",
+          "published": "2026-07-12T00:24:48+00:00",
+          "excerpt": "Florida outfielder Kyle Jones was selected with the No. 102 overall pick by the Milwaukee Brewers in the third round of the 2026 MLB Draft on Saturday. The Gators have had multiple players selected in every draft since 1",
+          "image": "https://www.gatorcountry.com/wp-content/uploads/2026/05/Kyle-Jones-walk-off.jpg",
+          "source": "GatorCountry",
+          "sourceUrl": "https://www.gatorcountry.com/florida-gators-baseball/"
         }
       ],
       "status": "ok"
     },
     {
-      "name": "Florida Gators on SI",
-      "url": "https://www.si.com/college/florida",
-      "query": "site:si.com/college/florida baseball",
+      "name": "Gators Wire",
+      "url": "https://gatorswire.usatoday.com/",
+      "query": "site:gatorswire.usatoday.com Florida baseball",
+      "kind": "news",
       "keywords": [
         "baseball",
-        "mlb",
-        "bowen",
-        "caglianone",
+        "mlb"
+      ],
+      "posts": [
+        {
+          "title": "Previewing Florida baseball weekend series at Georgia",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0U4ODRGN1VscHd6V19zYi1KRnp3SmR5NmExdTNZY1RZSHRHajh6bEVJNXVTUTJVOWVvTnZsT1BWRlpuYWRUdzhMNzJ0Mml1b05BRVBRNHpaWno4RjhJNW9abWJBdTlzMWVuejR0bnM4TnFyOXlHWER3cjR4U2l4dE83SkM0akhzVmZpclhMdDgwM1hmaUNwRTJubXhkWTdnOTlFUENqRE9najNBbkR5d19WS0xNUlQ3X0g3UDZ6Zlc1N3dySjdBUTEyeTBQSGZDbGl4WDJ0Z2M?oc=5",
+          "published": "2026-04-10T07:00:00+00:00",
+          "excerpt": "Previewing Florida baseball weekend series at Georgia Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Florida baseball drops midweek game against Bethune-Cookman",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelBoWWdNamhVanFOZ29GRU1hWWFWWWdjMkVGb2RWVERpVmp0c0lqY2E3VUpYb1Y1cjNINXE3aXhLM0tDMDdkRHlWQk1nM2d3dnpUMGdtX0VPWGpzbHVfeXZHZE9rdVZ5WnhfSnpQQWN3SWRYNU5QNVQ1ZXh1dkg1U3dpMnd3Q0RGclJEWEEyX2NjdHFLU01fbWwyWHB4ODJQY0gzbTItOE1LSjBZRjQwaWhFRHRpbFA5OS1Idk1FcGQybW1nMXdKT3FIMlkzWC0zLWZVLUQ4VEVIR2h1Z3c?oc=5",
+          "published": "2026-04-14T07:00:00+00:00",
+          "excerpt": "Florida baseball drops midweek game against Bethune-Cookman Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Previewing Florida baseball's weekend series vs Ole Miss",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb3J3WlYxb3dSdlBEZUpHMUY4MFd1b2FNNEtsTTVIaFF1X1BUUmF5MmhDS2VvSWltSVRhdjFXVHlESzRDT1RQOGdBOTFiS0ljeW00UzZuU01yYU1qNWExVFVWYl9RMUx4dlBRZUJMZWpWWVBqaWlfR19hdUVzVlI5MjNYWE14RXdDRlR0ZkVGbUo0WnZUVU01ZHpURmlYTkIzcGRzQUNPMzNtbzdsRDBEUll1T1FXYmMzUU5Jd1JRdDk3OWFDQ01qdEN4Y0tJSlBLcm84VFdmYw?oc=5",
+          "published": "2026-04-02T07:00:00+00:00",
+          "excerpt": "Previewing Florida baseball's weekend series vs Ole Miss Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Florida baseball falls in final Baseball Coaches Poll of 2026",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV3JWZEgtMGRCbjdzVDl5b0JZUGptanotYnBzWjluMGF5Wm9rcVVZa3BhNE5JRk96UWJNc1RqMEZWems2b2pGOVlqTEc5bmtvemdmNzVodjFZQVBLZVhXeEdqQ1pXQnhoY1FYakxhcmMya08yejhWQnBlN3JFNmxoMWNEY18yTmpocUlOd0phUmdTWWVRaXpzLTdSMVFHZGVaM2xfaklwQlVMeTVRSkJEU0x2bkJoaEdrcUN4a2NzOHBIMG5OWHBlaU9CWHFwZw?oc=5",
+          "published": "2026-06-23T07:00:00+00:00",
+          "excerpt": "Florida baseball falls in final Baseball Coaches Poll of 2026 Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Here's where 14 Florida Gators are playing summer baseball",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEJhZzdsYllPX2xiTmNJWXc2Mk1qQ1VLcmpWYXgxeGhPdU15dEFrM0hYTFZoa1NSbDJNekEwYXR2NElsMXZzTXlHTmNLVzlWNk93RWRTdzJuY09SdThtc2ZPd2hFVHZ0M1kzZ2NEZ0hKZmUtQklTd0Nzb0s4QWV3ZEtmcS1OQXVLaHdPS052Vlc3eE9jYkRKN2QzUlgzazE2bVFFRnpSb3d2Y3FBMHFtVzZwcEltU1RGa2RTWUdXemFJZWdfVk5EeVlwUXgzdGNmUmNncldyWkJNajg1cDgxNXdwODFMNG1IeHlwcTRpUlVZOEhZRDBIcg?oc=5",
+          "published": "2026-06-19T07:00:00+00:00",
+          "excerpt": "Here's where 14 Florida Gators are playing summer baseball Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Checking in on Florida alumnus Pete Alonso's 2026 MLB season",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM0prNVNVNHkzMWhkd1AtY1ZUeFVqU0NuMEVqcmlWU0dqYVJ1cTdYQnBRdEE4WFVsWmI1SVUtUkplUHR5bl9ndHExTjNXZDdQemRGZU9waS1XbU9XMFFzSnhmblA4T3A2Rk85YXFGWWJVZ3VTMXppQkN6V3RYbEI3Skl0R095TWh4WnptdTJWUEM4M0lnN0pTWHY3ZjhfYUY0a2h1MlBZSjQwZHViX2RJY3loRW80eWpuMHFDMXl6eUdJOXpOM2Z5aWVULVBHT2htR05zRHFMeGdoalZfak9zRm90Yk1hSWNwR1Jj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-25T07:00:00+00:00",
+          "excerpt": "Checking in on Florida alumnus Pete Alonso's 2026 MLB season Gators Wire",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Florida baseball loses another southpaw to transfer portal",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3RkOVhWMWFfVGs3bXhUcVZmVGhKSzZVbGhqcW4zb0RxU19yYm4tNGVTZG02SURsZUxlNFMzdl85UDlIMzVNNHMxQ2wzVmN4ZktVWXVKYmhqQ3N4X2lyRW5oMGdoNlZ2VEgwVjNwNWFzMkwtaUluQWdUZWRxQWZKNXhfSFBVSW10R2M1bXoxTy1uc3JQV2xBRUFiZGtDbjNGQVVyVGFtSlpTZEpKdUk2SzNNbVdVZnFEaVJVaGJmV19obVhfRUc2UjdadmhKamYtcFNodFh4VEQxZw?oc=5",
+          "published": "2026-06-17T07:00:00+00:00",
+          "excerpt": "Florida baseball loses another southpaw to transfer portal Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Kevin O'Sullivan talks Florida baseball's Friday loss to Auburn",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORlY3STF3ZG9TN0x0NkNkMlpnZURwSFRKRm81MEtjVjI1UjllUnJsZER1bUJiQ3lnVVctSWlfYmpEU2NzNVhNZUFDQklaV0xoUG14NXZRZ0h6dFRwT0Rwd2Y4M2VocWhnZmV5ZXkzYXhzaTBlRVRDOWNBeTJGd19IMHM4d2lISXVWbFlZbDZiZ3NVQkM1NGlXeF9rWE1PdnNuZTBURmp0MHhkNGcwTTl4ZmExVkpSNGN6WV91NjAwOW8weE56ZFlfNmF3UlFwTWx3MVZuczlPMi1LcHVjaVE0?oc=5",
+          "published": "2026-04-18T07:00:00+00:00",
+          "excerpt": "Kevin O'Sullivan talks Florida baseball's Friday loss to Auburn Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Live blog highlights from Florida baseball's walkoff win vs High Point",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa01jVTg2RUhOUzdPTm1jdTB0ZW9rSERTdGhUMklNWFdZSEw5dDU4djA0THhhaXV6M20zcWxkTkRIcVk2bU5hMUVKNXloM0Y3czdoOHpMdGZ1T3lYdUE4RFFCcnBvc0Joc1hxRkJKSHZEeG9xUGJsLVVoM3ZRQXhmbTlBVE5SQmNpYUM3QlpINXpzNHR4S2xueXdFenVBMHlDY1ZvZU1NVm1keGtCQ05tMk85ZExaY2E2cTRMWnZXTmtieDd3TVhpaENiRWVQZU9fd1BSN2RkeWNGdWNIY0xBZFlDZmVRbm8zS2JFV1hn?oc=5",
+          "published": "2026-03-08T08:00:00+00:00",
+          "excerpt": "Live blog highlights from Florida baseball's walkoff win vs High Point Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Recap, highlights from Florida baseball's Game 2 loss to Auburn Tigers",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdl9wc2RhX2l6azZHZFVOSVZXeUIzcFZZcnNzZzVtV2duZ1VaXzhCR2RKZmlZaEtXSVhuRF85YkxfY2R0TXBSV0I2NEVSRV8xazlYX2FaTGtlYVJETjZZNng0RG1hZjA5cG5YbmhtMlgxREp3OTZIQ0tqOHI3Qk55RHRwU2x1WmczeGZMU3k5SFd4YUFVTFBWXzJOaEplcy1IMG1fNjNlODE2TmJRUl9IQS1OZXh2Xy1WS18yTXVVMFI3RGNFUEl4d2U2dUVjZjl4ZWxDNi1QcjZqRGFndnpMOTRmdHpCcFBl?oc=5",
+          "published": "2026-04-17T07:00:00+00:00",
+          "excerpt": "Recap, highlights from Florida baseball's Game 2 loss to Auburn Tigers Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Previewing Florida baseball's midweek home game against FSU",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3JkNFUteFdfcmk5QnBRREtINlVodDloYXBQUlVOWW93MGhqLXFZX21vdjlmN3lhMmZleElJZ3dqMlhiZ0xOcmUxRFlacDVDaG1uWE9ZNnhBX0VxeFhoWkNtd2FRVDZHZmNINGlhejVySHBndXVjbEdrVldzTjRjNDBHYzhxOGV0VTIycEpVcnFJaldUWmxiYU4xVjBrWlNheHZ0TFhOV2tYNk1oeDhvWWxRMGZjUjlaSGFLWDJuVkZGWUZXaE9LSmgxWThxZHhZQ252cGZBSVJCNk5qZG90aW1GMjdnaWlzMVow?oc=5",
+          "published": "2026-03-10T07:00:00+00:00",
+          "excerpt": "Previewing Florida baseball's midweek home game against FSU Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        },
+        {
+          "title": "Florida Baseball: McCall Biemiller enters transfer portal",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdjZrcEtJdC1TM0pGMnVzRzNOanZsVk92UXNlWmphRVZUYlJHemNUOUt4VDAxbS1NS1RXTE5oYWxtMEtFb051TlpqdmNuckFDYWlOY2xsc1RYeldpZlg1N1BYNHFlQ2tlcFRBbDFMc0lkcUhmV0l1WUNwZ21XanBZYlVmdVN3NmF1Qlo4NWpERHM5anU0R3JfdDF6Y2VlWC1OTlJmV3hETW9TTmg4NE5FN0F6LTJiUTVURy1Pb0FBOXlGbmpSclVOMkx5cXVUT3VQNlNfQ05zZkhHUWVyNFRQdl9B?oc=5",
+          "published": "2026-06-01T07:00:00+00:00",
+          "excerpt": "Florida Baseball: McCall Biemiller enters transfer portal Gators Wire",
+          "image": "",
+          "source": "Gators Wire",
+          "sourceUrl": "https://gatorswire.usatoday.com/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Alligator Army",
+      "url": "https://www.alligatorarmy.com/",
+      "query": "site:alligatorarmy.com Florida baseball",
+      "kind": "news",
+      "keywords": [
+        "baseball",
+        "mlb"
+      ],
+      "posts": [],
+      "status": "ok"
+    },
+    {
+      "name": "WRUF Sports",
+      "url": "https://www.wruf.com/headlines/category/sports/gators/baseball/",
+      "feed": "https://www.wruf.com/headlines/category/baseball/feed/",
+      "kind": "feed",
+      "keywords": [
+        "gator",
+        "florida",
+        "baseball",
+        "peterson",
+        "cyr",
         "mcneillie",
-        "peterson",
-        "cyr"
+        "yost",
+        "bowen",
+        "sandefer",
+        "walls"
       ],
-      "logo": "https://www.si.com/favicon.ico",
-      "kind": "google_news",
-      "accent": "#0021a5",
       "posts": [
         {
-          "title": "Former Gators Baseball Star Experiencing Major League Breakout",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnZWak5aeUc3c0FTeXdIeVBnSW9Gc1Q4dkpHeUFybXR0Q255Um9sOHhJQXJTal9faENiUnROZi1vcmlnRmJ1VHd1akZNNm9ZOFpRM3AzOUROaFdQSWJlOUgtbmNkTUVnRTgzbzVGQkkwMlcwdlRhUVRJclFQWE56MHczc0hlQ0pwR2RhUW9MVjRGeDltWHZ4TWg0cGdLLXZXRjF1OVFSUS0xUQ?oc=5",
-          "published": "2026-08-20T07:00:00+00:00",
-          "excerpt": "Former Gators Baseball Star Experiencing Major League Breakout Sports Illustrated",
-          "image": ""
+          "title": "Gators Signee Kevin Roberts Jr. Signs Deal Contract With Baltimore Orioles",
+          "url": "https://www.wruf.com/headlines/2026/07/24/gators-signee-kevin-roberts-jr-signs-deal-contract-with-baltimore-orioles/",
+          "published": "2026-07-24T18:02:42+00:00",
+          "excerpt": "Gators baseball is missing out on signee Kevin Roberts Jr. for a major price tag. Roberts inked a deal Wednesday with the Baltimore Orioles after getting taken in the fourth round of the 2026 MLB Draft. The slot value fo",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
         },
         {
-          "title": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXpOYkxzQkRNcDQtSFhZOGZ1OXpRS3VNZkw3Rk9LUXJlUTh4Y1dUdUFDa3Rna1IxcDY5LWtMaktjcGo0LUROYUU0MDhodnJMRG5lS1huY2otOEZiaTE0U0pncEh1X1dYd3hJNzRsWVd4MXV3LXlseEZsWG9RQ0RDY1V5NHAyenAteUZQY3VPWnNsOGZxX1lTcHU1dTItSVh4UEN2Z0wtRjNTejR5RzlnSlg0cDlJT21xckE?oc=5",
-          "published": "2026-07-30T07:00:00+00:00",
-          "excerpt": "How the NCAA's New Eligibility Rules Affect Florida Gators Baseball Sports Illustrated",
-          "image": ""
+          "title": "Former Florida Pitcher Cooper Walls Transfers to Georgia",
+          "url": "https://www.wruf.com/headlines/2026/06/12/former-florida-pitcher-cooper-walls-transfers-to-georgia/",
+          "published": "2026-06-12T18:51:05+00:00",
+          "excerpt": "Fresh off the heels of Cade Kurland committing to LSU, another former Gators baseball player is transferring to an SEC rival. Right-handed pitcher Cooper Walls committed Friday to Georgia the day before the Bulldogs’ fir",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
         },
         {
-          "title": "Florida Predicted to Make Program History in 2027 MLB Draft",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1pmUE8zZW1TZkwtZXljTDJ2X0tNMGI5NFZYNkx4TkkzaUhDWjdqSjMtT05zV1lnLXZYcHZleTREQkNUVnQzMnZ0dkh0TkVaQ1YtNk8wNHdtOGZRV1pNRFdhSVZRVE5wZFE3aXl1d2xndFBtWHA4UnNraWd2UERJVHo3Z29PdVZPeFdsTFJEVndSMFM3R3BkcDA3QmN4T3JsWGhscmd3R2Q4THh0RG9V?oc=5",
-          "published": "2026-07-14T07:00:00+00:00",
-          "excerpt": "Florida Predicted to Make Program History in 2027 MLB Draft Sports Illustrated",
-          "image": ""
+          "title": "Former Gator Sterlin Thompson Records First MLB Hit With Rockies",
+          "url": "https://www.wruf.com/headlines/2026/05/22/former-gator-sterlin-thompson-records-first-mlb-hit-with-rockies/",
+          "published": "2026-05-22T17:24:59+00:00",
+          "excerpt": "A first debut on May 15, followed by another first Monday, fulfilled a mark on the bucket list of infielder Sterlin Thompson. Thompson, who spent the past several years in the minor leagues, recorded his first major leag",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
         },
         {
-          "title": "How Florida Gators Baseball Replaces OF Blake Cyr",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnZiTU5GUENBNnZSdFFOT0RkYk9aR2cyV2tVaE5EdXhrSHJOUTROU0pDXzJidTVhWWZ2bzl1cG1VWXM1TVFIdzJsWXd0UHZGUHFrUXVZeUktbnI0NlB0R0g4SWhfdHRkWHFLWDdaQmRmRWI0Q1RUUDJTM3RxeEJLQ3g5dG5KMjlEVUdtQmZRNjFsZWpWejdjYzY4WHdHRW5qODlpbGJJZ3p3dw?oc=5",
-          "published": "2026-07-21T07:00:00+00:00",
-          "excerpt": "How Florida Gators Baseball Replaces OF Blake Cyr Sports Illustrated",
-          "image": ""
+          "title": "No. 21 Florida Baseball Takes on Texas A&M In Weekend Series",
+          "url": "https://www.wruf.com/headlines/2026/04/24/no-21-florida-baseball-takes-on-texas-am-in-weekend-series/",
+          "published": "2026-04-24T13:00:59+00:00",
+          "excerpt": "After another frustrating midweek loss, No. 21 Gators baseball is preparing to host the No. 7 Texas A&M Aggies with plenty to clean up. Texas A&M (31-7, 12-5 SEC) will travel down to Gainesville this weekend for a crucia",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
         },
         {
-          "title": "Gators P Luke McNeillie Makes Decision on Future After MLB Draft Selection",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0Y1RYRW93N2xRMTU3SEdCb0RFSFROZThiZHlFbWs5enZLbkE2TlhxVzB6d0ZWU0p0T0RFSXJKbXFmUE5qM2dSWC1XNTBzb3F3dks4clJ4UTl6MVF4THVyajMwdHYwMUc1bkgzanVmTVAxcm5JTk5LTG1jQVkteUtWWVlFMmhZYTJWZ3czY1FkTl9MNVVfQnV4ZHZDdThwVnc1akp6ZGNzSjlSQjB2dzNIcl9ZeFdZNTRUa3NtRQ?oc=5",
-          "published": "2026-07-20T07:00:00+00:00",
-          "excerpt": "Gators P Luke McNeillie Makes Decision on Future After MLB Draft Selection Sports Illustrated",
-          "image": ""
+          "title": "How Brendan Lawson Compares to Recent Florida Baseball Stars",
+          "url": "https://www.wruf.com/headlines/2026/04/20/how-brendan-lawson-compares-to-recent-florida-baseball-stars/",
+          "published": "2026-04-20T09:30:00+00:00",
+          "excerpt": "Brendan Lawson has been the story for Florida baseball. The shortstop is the Gators’ leader in batting average (.333), OPS (1.264) and home runs (11), despite missing games to injury and illness. Lawson is also coming of",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
+        },
+        {
+          "title": "Florida Baseball’s Hopes to Host an NCAA Regional Aren’t in the Dirt Yet",
+          "url": "https://www.wruf.com/headlines/2026/04/16/florida-baseballs-hopes-to-host-an-ncaa-regional-arent-in-the-dirt-yet/",
+          "published": "2026-04-17T00:22:11+00:00",
+          "excerpt": "When the majority of a baseball team’s losses come at the hands of unranked opponents, its dreams of hosting an NCAA regional might as well stay in the distance. But for Florida baseball, that dream isn’t totally out of ",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
+        },
+        {
+          "title": "Gators’ Pitching Biggest Flaws As Postseason Approaches",
+          "url": "https://www.wruf.com/headlines/2026/04/15/gators-pitching-biggest-flaws-as-postseason-approaches/",
+          "published": "2026-04-15T18:14:50+00:00",
+          "excerpt": "As the end of the regular season approaches, No. 20 Florida Baseball can’t find consistency on the mound. In Florida’s 13-7 loss on Tuesday to Bethune-Cookman (26-11, 12-3 SWAC), the Gators played six pitchers, including",
+          "image": "",
+          "source": "WRUF Sports",
+          "sourceUrl": "https://www.wruf.com/headlines/category/sports/gators/baseball/"
         }
       ],
       "status": "ok"
     },
     {
-      "name": "Gainesville Sun",
-      "url": "https://www.gainesville.com/",
-      "query": "site:gainesville.com Florida baseball",
+      "name": "Swamp247",
+      "url": "https://247sports.com/college/florida/",
+      "query": "site:247sports.com/college/florida Florida baseball",
+      "kind": "news",
       "keywords": [
         "baseball",
-        "mlb",
-        "surowiec",
-        "peterson",
-        "draft"
+        "mlb"
       ],
-      "logo": "https://www.gainesville.com/favicon.ico",
-      "kind": "google_news",
-      "accent": "#4b5563",
       "posts": [
         {
-          "title": "Florida baseball sets fall exhibition vs Troy after regional matchup",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMG9WM1RWTEtDOTFVVEV5aUR4bV9WN0l3U25LZ1RYWndLc1ZreWRuVk9WN0NrWHVFUkYtZ0luUDQ5MHlJVkIxMHBYbnBhRVJCNFI0TkNXZVVvcnVaRUREbFJaaTVpcHQ0dkMteHJub1VDTURIMmdzN3FvVFJEcFphWm9RVFdSSFB3aTNEYlhrZkpnTkxrV3lVUWpyZlJzOTJSR1hlcXZGUk8xOTBPUV9CZHpNeUg3TFZFd3JuZkFfSW0zOG5zdFRZTmJTRE0?oc=5",
-          "published": "2026-08-04T07:00:00+00:00",
-          "excerpt": "Florida baseball sets fall exhibition vs Troy after regional matchup Gainesville Sun",
-          "image": ""
+          "title": "FSU Baseball: Trey Beard 1-on-1 | Decision to transfer to Florida State | Keys to his deceptive arsenal",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEFLMC00cTNMbXRfdUdfUzZjM2RCZTJlVTQyTnlLOHR4eWRxbW9BNzhUUFNPRmNsUXR5OUQ4M0ljQ3lxUHROTThNQ3g1Mm5Ha2FRTUxvM0RfX0lxaDd6NnVvdFowQ2xjUGZTbUNEaUZxT3FGZlVOdEZtamt0RFJGLThmTjFybWgwX2c5UXRwOVctbUZfUmM3SlctcHJyQTdGeTJTQlBOYXNRTTR4MTNfRUkwVjZpOXR2ZGdPSWw3ME9xT0FLdGtKQVVTa0tfWnI0Ylc3MWVtRVQ?oc=5",
+          "published": "2026-01-22T08:00:00+00:00",
+          "excerpt": "FSU Baseball: Trey Beard 1-on-1 | Decision to transfer to Florida State | Keys to his deceptive arsenal 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
         },
         {
-          "title": "Former Florida baseball player Cole Stanford chasing chance to play Banana Ball",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLUlENlYzLWtHSUh4Q3lDVGZ0TDBDRW83SVdHUGkwQk1VZ29kYTNMc0lUWFFuV2I1S19objlfXzl2UlYyM0JHQTlUMXZ0UHl1YmptcTh6azNqTjAzb0tCVTVDVVRhQ0FxTUdFdWFfdVJvbGt2Q0ZyNzFxVEFQRGQtUXJmQjBsc3RaQ0txQUY3cXhxSHJVc2ZZZXNNcGJVeEJQTVJ4MXZwSl9Yd1NjX1hiVDVfclpDa1I5cXQ0bi0tZ05KZFFvd1RjNTlBZ2xydjVSbExMSWZ0TUlSZXFRcmMzMGNENjVKc25B?oc=5",
-          "published": "2026-06-24T07:00:00+00:00",
-          "excerpt": "Former Florida baseball player Cole Stanford chasing chance to play Banana Ball Gainesville Sun",
-          "image": ""
+          "title": "Florida's Liam Peterson selected in first round by Cleveland Guardians in 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU01SUtPMEZ3YXhPMWplOHkyUEEwTUtidkd3V1JKclRMMWFCVGQ0blFHUXdpMDZOWFo5bFRJbGx3MVFsVks0Umtrb3pwcl9tX3pza1piY1p6NTNCRGVLV2hlbmFQY2Q5RDZuTTBLT1VaZ1dmSXNabmJTTGtJbzNHamIwYThfWVVWOEt6V3pfRWk0ZnhXblFDYlkwSVhua2YwSGliNEp1WHpIUk5fa2FUOTZoMkVqOXZlRXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-11T07:00:00+00:00",
+          "excerpt": "Florida's Liam Peterson selected in first round by Cleveland Guardians in 2026 MLB Draft 247Sports",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
         },
         {
-          "title": "Florida baseball expected to hire Oregon State pitching coach",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZGx5T3FVd0o3R2ZwTEpjQmI4R0Y5ZVRza3V6QTI0RFgxX0dwSF83Y1d5WS04R0ljR2pDOFVkTE54ekhUdFJSNElXQjIxT1NZVldWdEhiQW11eS0xRUk3c3d1eXVocU5zeC1hdm5CSmxOYmhSRHEwZEkwSC1UQVY2aHl6MVJqOTI1TU53T3c0LTFDWDR4QUE4WDZOdkxJRTBBZ0VNYVBQZzVBT1Z3QXYtOHFjaUhzRnNZV1A0MlJFSUNOZGhCalNaN1hZRUxnUVJ4RjQ2clJWaVRobzZuOXFVaUZmVnlGTHRrdUtKak0yM08?oc=5",
-          "published": "2026-06-11T07:00:00+00:00",
-          "excerpt": "Florida baseball expected to hire Oregon State pitching coach Gainesville Sun",
-          "image": ""
+          "title": "Florida INF Ethan Surowiec returning to Gators following 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZEdtTV9hWWM1VDZDQklSMGhUenVsZDVPbm1DZzY4TjlLX3VzY3NnQkI1Q1pfeDVYVmhkeGUyVlNDdzBTcEVsQU9GVGtXSzQ2QVdCMXJndUFBNXZxb3AxZ2VEUkVqaERVUDRtOTR2R2wtV0R1SkoxLXdNejZjSGpaTmc2bGphc1pOSS1uT2IzRDhwWDlDeURJMldMcUIxRkd0X0VqUWlUbkJKd3VDVjlpVDVsUEJBb1k5cG1sS3owSDFab2RnRmphc1BMS2tLZ3lrMU5iek92OHRKcmhQNXdN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "Florida INF Ethan Surowiec returning to Gators following 2026 MLB Draft 247Sports",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
         },
         {
-          "title": "Florida baseball flips 2026 outfielder from Oklahoma",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOazF1S3NaY0p5YkxiSS1laUpnemk1alNmMHRXOHdZemZpeGVFYkltb1E3UzU2UmJxTnRRR3l2cF9lTlktRjVsQ1FIQ3pwMUJLcEZiRXZNUXlvbDVlN1VXdHFyUEVGVjd1emlpMXBkNEVFS1ZVZlQ5NHVmV3hvN1YzSVRaSW5nU0NyUmx3amcwZTY1clVJaVZZakx3OUdpYl9pdE1PeTdVdThCX2pqa3JlRUpoZWFCT0RPNnFfdUotSFl2c092aVQ4QktwYUI4Q1lrLUFiVEEwWmgwN3hIa1E?oc=5",
+          "title": "FSU Baseball: Florida shuts out the Seminoles in Jacksonville to clinch season series",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXZXcm1xSW1SeHViTG9Dd252MlNjSGhpOEN1RDktRFlKamZtdW1uZFhHSU5NcU5DV3JHdk9tMmdvd0YtTGstelBTYnFWVzdwWlhyVTJzUTQ3Y3RCZmhGNVQ0dnpmcTJJN2tadmxZSmhERGRSZ3FpbHdnbWtpMUVFNF9oWHNrZ3JrQV81ZEM2MUdSdlpaQk1MMnFvRUJzZlRjSDZvZ0VIaXlzX2tIeGtxb19vanljdUUxMV84bTd5M25uRndvYXc?oc=5",
+          "published": "2026-03-24T07:00:00+00:00",
+          "excerpt": "FSU Baseball: Florida shuts out the Seminoles in Jacksonville to clinch season series 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "Two Gators become latest UF baseball players to enter NCAA transfer portal",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU3l3TnFTY282TzBEVzhQclVYWjk4NENUdURiWmV1WjdVWmRSQ3RNZG5GR0s0SUVONVRJd0RwdFp1ZWZlYzNCY2VRZ0ZyWl9lY1ppRnJmekpzc011dUtISmNEMUxwWFQ0Z2hmT3FxZmlNMWY0cTdQNlliZTZfUV9Qbi1nR0I5S2QtanB1RDVfLVk2bTlSNnZMQ09mTG94OU9kVlNIYUlCdF9xd05ZSmtfVVpWcW1DbE5OVWlQeUtzMWpPYWJUMXVaX2M4cUJEZEtrb0RBYmFtN1FJUEZYNnR6YWJ0Y2R3SEU?oc=5",
+          "published": "2026-06-05T07:00:00+00:00",
+          "excerpt": "Two Gators become latest UF baseball players to enter NCAA transfer portal 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "Florida's Luke McNeillie selected in fifth round by New York Mets in 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamEtUVFsSkg5bElNWmhSNU1Wdm0tUFU5cDNITmtidHgzWFE2bmtoUWloVUlpcjR3Tk1IQ09mQmpMVjZkY0ViTEJGd1VpbjRwS2Y5bm5KNm5FQUVvOGxoOS1LY1EtSDJRem9ycEg2UHoza1FwXzBSeWZqdlR3U0cySDBramNzcl81MTlQa0taeFJidk5PTkZFZGEyNmVMNXhIOXlVVW1EcFczWlJ1NWdQYW80V1diM19qazBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "Florida's Luke McNeillie selected in fifth round by New York Mets in 2026 MLB Draft 247Sports",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "‘Best hitter in college baseball’: Brendan Lawson making second-year jump Florida desired",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWI2LTZ3UnZobEtlSWpLaHhab29QdXZKRGZ6a2pKTGYxMWJGYTlfSXJ4R2x0YTJ6ZGNKekViOWZxV2NHRjZMdTZGLTlYcnUwYU9fclRIUGllbGkxSGFjQmNqYlB5SmtuSXdja2FfZzBkZEpqZF9RRVZZUTRSYW94NGlKRXRqV05fMDZzNk1tOGVXcFk2SjltVFhTV2l5THBnTTY2al9uVU1rUmFBWkNDS0FNcWVsOEJH?oc=5",
+          "published": "2026-02-25T08:00:00+00:00",
+          "excerpt": "‘Best hitter in college baseball’: Brendan Lawson making second-year jump Florida desired 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "CBS Sports includes Florida RHP Liam Peterson in 2026 MLB Mock Draft",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3VfZzdqLVo3MGNkR3pnbWhmaGVmcWk1TGI5MGZEYkV6NUdZaUl5OGZUbFNnSlViTUdxU1IzNHF2RHVVVU02WjB0N3Z1M0hzQTk5QWVreVUwb0JwR2dJRlBBM1Y5ci1WdzdqdjFpNnJhcUhTaTQ3NF8wWWFySFdYMnlLYWxjN3htdy1rVkw5clVOMklEeTc5VG9pd3dPNzZ4QXBnaWNlX0dOM01tcktTaGVpeURXSmhOakNzOW02SEJGSm5fYV9zUjFJUTdMdTB5R3RWZGhB?oc=5",
+          "published": "2026-05-29T07:00:00+00:00",
+          "excerpt": "CBS Sports includes Florida RHP Liam Peterson in 2026 MLB Mock Draft 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "Florida OF Blake Cyr selected in 18th round of 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3puYVNGellfbnA3YWRfLTgtbWF4X1E4aS1SWWdHQXN6WGR2cC1XWlZ4ZTRiZ2xqcjFDQTBsZWVBVFlvWTRhV0c4b2R1eS1DWW9nVTNLQ1B0OUJQYkRiTjlmV3NSSXFqUHpLU2hGOFFFY0tlVzBlVDRiTnNNMy0wMFR5NGI0QXFDMDZzQXJGUlBIRkhIZWhodkJwcWwtUElYOU5FWWd3Sk5KYllNV1BnU2NLaFM4azVaYjFtWG1fU2o1ZGx1aXBqbnI1X0hPWFk4SXF5R0FWQl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-12T07:00:00+00:00",
+          "excerpt": "Florida OF Blake Cyr selected in 18th round of 2026 MLB Draft 247Sports",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "ESPN Networks to air double-digit Florida baseball games this season",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0hKV29WblVDa2F2bTViRFpVaXNaY0hFMXVQRlB1WERMc0Z4VTc0VDNYanR4X29RV2I1MF9NYnJJQ2VlWVowbW9xUzBpZWcwN2xKWC1LRVJ5UEgwSmh0Y0lqdS1JNXg0aGI5RU83SzdaUXBSUDh5RzBhN0VFbWRQel9YSi1fckpRRmROMVZUaWdtSkFUVVFqZGhVaE0yN0NWSzdaWlJtLWs2akZINVNVXzJtQlF2Z1M3VWVwa0E2a296VTdJRnJwZ0h4OUpGc01BRFdBaw?oc=5",
+          "published": "2026-02-04T08:00:00+00:00",
+          "excerpt": "ESPN Networks to air double-digit Florida baseball games this season 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "Gators Baseball Position Preview: The Infield",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2F4WTIxZC1pbFk3Mk1yWXp0ZThZM0g3NDM5QXdweXN5cXdOUUNnVTFaaU4wV3RQMWVWRkRCX3A2Szc3S3B0eGREZFlXZGpWRUo4X1l0aVJHdnF2UXp4N3FENWlLNXdvQ2RXV0NfN1pHakZQbEhqc1BkbmRDNkdfUUt3Rjg2SjRqSkt4Zm9DTkZTZHhXN1hES2J2SkdzbERuVllJQVhmTzVydVN1VlNpS1M2RnpiS2hrMFFNLUdHSTB5OVR2SmNnWUcwSFhCZVYzREI2ZlZDZWNXYzUxeDJrNVpn?oc=5",
+          "published": "2026-02-04T08:00:00+00:00",
+          "excerpt": "Gators Baseball Position Preview: The Infield 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        },
+        {
+          "title": "Florida baseball flips top-100 2026 OF Braylen Montgomery from Oklahoma",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTh5WnRiNFNieUZ5bFBBSHJ3enNfUTkyZjN4eGx0Qmh3RURTYzg1LVlERWJvMWcySGxPcnNScTEwRFVHR2lVMmdBUlhiLThObU9QYmUxc2xQMVlsWDRyWmh2RlpRUFZGTTRraGtpVGVJZ2ZqWFFTa2ROMkpDV0oyNkpBRWlRQjFDR1g5dFBHTTJramlpZ1RsY1BpX2k0bHlVeG95RU9WSEpmLU9MT0V3NHNxOVBaSlNad1hTODA4aktERVU?oc=5",
           "published": "2026-07-02T07:00:00+00:00",
-          "excerpt": "Florida baseball flips 2026 outfielder from Oklahoma Gainesville Sun",
-          "image": ""
+          "excerpt": "Florida baseball flips top-100 2026 OF Braylen Montgomery from Oklahoma 247Sports",
+          "image": "",
+          "source": "Swamp247",
+          "sourceUrl": "https://247sports.com/college/florida/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "Gators Online",
+      "url": "https://www.on3.com/teams/florida-gators/",
+      "query": "site:on3.com/teams/florida-gators Florida baseball",
+      "kind": "news",
+      "keywords": [
+        "baseball",
+        "mlb"
+      ],
+      "posts": [
+        {
+          "title": "Transfer portal tracker: Florida Gators baseball roster updates",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVRMUzhfWThDVDREMmFkaVI2cTNWNVY5c0plaEpsMWQ2RzdhUjhfY0hqM2pYWXRLZjVreGtKNTB2QmUxVWtfUUItYTZraklyTDdqRUtnSGY2ZkdFSWJuakFHRnI3Uk9WZkJkdlFaLWdZdU1BdDhMNzg4THNpenZLOHFiWk5NMFJrRjNyb2RyUXJxUFllN3FtMEdOU2FWb3pnT3lPaGVCd3VxTkpKckdpVg?oc=5",
+          "published": "2026-06-20T07:00:00+00:00",
+          "excerpt": "Transfer portal tracker: Florida Gators baseball roster updates On3",
+          "image": "",
+          "source": "Gators Online",
+          "sourceUrl": "https://www.on3.com/teams/florida-gators/"
         },
         {
-          "title": "Santa Fe College hires D-1 pitching coach as new baseball coach",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXVxazdwYWl1dE11cTZHdWQ3Q1VjeFVPRHpPWGVMRWZyU1RYeFo4aUFYTFRMRXkxVzZQaDVKUWNZVlJUZUJod3ZCWU9zVkwzSWZIRTg1OEhUYTlMdjRONmJnX1A1Z1pTTmpaenhnUkstQUV4VGVrVjlTUmltYzU4QUdpTnFiRkVEMk9FR0Z2anpFUUFnelRnWkxsLVBVZ09WeXlJTTNOemhtUENyeHk1eFhpUU5ISXREbnFhX0JwOVVYR3dscVF2RTlrbktuZ0U?oc=5",
-          "published": "2026-07-24T07:00:00+00:00",
-          "excerpt": "Santa Fe College hires D-1 pitching coach as new baseball coach Gainesville Sun",
-          "image": ""
+          "title": "Notable baseball statistics for the Florida Gators",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXotdXJSSVB2d1g2VG1SNG9KSEhUVTBqQmVXVFhxYmdIaU51Q2ZHQUVFa1JmZjBHM0IzQVpFazdIR181ZExpVXpPR0dkeE9aZkQ4aUFPemYyMTkxR0JtcXI0OHRDZ2ZVVGhJU3p4OVM2bFd5UE92Q0xBbGRQZDdUeGFFT2hwZGVkOHUxdl9nZ25kejNqOTRzQnBHS1Jtdw?oc=5",
+          "published": "2026-04-29T07:00:00+00:00",
+          "excerpt": "Notable baseball statistics for the Florida Gators On3",
+          "image": "",
+          "source": "Gators Online",
+          "sourceUrl": "https://www.on3.com/teams/florida-gators/"
+        },
+        {
+          "title": "Florida baseball roster breakdown after first week of transfer portal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHJpY1ZsRU9hWE8ybk9NeEp3cnJjSU5ub2wwbnN2MHI3a0hKUUwxd0FDRGtManVkd2FwWTdZR2d4WS1qQnRvajBfN2QxTHVYNlZOMmY3ak9iLTVZcXdyVThkMW12Szl0SmwzZmFQUDNjclYyV2ZSVWtLd1gzRVktSmdObG5OV0pseHgzZFVDVUZFdW85MlhMdEkzX1liM1ZxOGZzZVAtdWZMSXJCbG1EOThsUUw?oc=5",
+          "published": "2026-06-07T07:00:00+00:00",
+          "excerpt": "Florida baseball roster breakdown after first week of transfer portal On3",
+          "image": "",
+          "source": "Gators Online",
+          "sourceUrl": "https://www.on3.com/teams/florida-gators/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "name": "The Independent Florida Alligator",
+      "url": "https://www.alligator.org/section/sports",
+      "query": "site:alligator.org Florida baseball",
+      "kind": "news",
+      "keywords": [
+        "baseball",
+        "mlb"
+      ],
+      "posts": [
+        {
+          "title": "Florida baseball’s key returners set stage for 2027 Omaha push",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnZXX2tSWFo1elpJX3JuZ2Fja1VrVFBMVFAyUElUV1E3dTJwaUlGdEV3bGwzNTVzSUJ3Qk1EbUlZS0lYLUFKR0dHZV9yWWdfWXRCdGNUSkRlUmJMRHh4NWstYUc4NHp1OG9iLTh2SHhHbGpyekhNR0paWjZpVllVcXBqMmx1cmtET2NiNUJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-27T07:00:00+00:00",
+          "excerpt": "Florida baseball’s key returners set stage for 2027 Omaha push The Independent Florida Alligator",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Highs, lows and more to come: Florida baseball wraps regular season",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EMUVudHRtTXZ3U1YwNjJaT3FyaEJKcXM4cjJEVGpVMFFUVnduN1dMWDE2QjRseGtLdHhfa1JyZlpLdFg5Q0xCTFFmbjN2STk1N05fYmJYd0JPMjE5VjBXRVN1UG9PclFXZFkxaXNjQ3pEMVNaS0lwbG5DbWs2UQ?oc=5",
+          "published": "2026-05-18T07:00:00+00:00",
+          "excerpt": "Highs, lows and more to come: Florida baseball wraps regular season The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Florida emerges largely intact after 2026 MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVRVLU1oV2ZvRjVUYVpJT3otQ3FwVXZTLVE5MGJzRlhRdVVwSWRuYmNEcHZtRVJnaXB4b1NiT0N1NFE5bHQ2S2Y0ekZqa1A1ZExxSVV4c0RjTDB4SUxFZl81TUVRVGlhTEZRdjhCZ0ZoOE1GRzF2NjNNMFlCZ2Q2QnY4eVNZOTRhWHl2WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-20T07:00:00+00:00",
+          "excerpt": "Florida emerges largely intact after 2026 MLB Draft The Independent Florida Alligator",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Ninth-inning meltdown costs No. 21 Florida baseball series against Ole Miss",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTW9GU04xMzZ2U3g5b2tzZ0RSNFkyekRRSmtZeTlfcnUtbHBUd2tFZjJTN2lUVDlQUkF6ekVpcGowREUxalN1dk5UNncybGwtaXlnYnZJcUpBbzItaktNY002dmtkb2s2QlRFcmhNWWtoSk9LTTYzN2otMVlEQ2JJOQ?oc=5",
+          "published": "2026-04-04T07:00:00+00:00",
+          "excerpt": "Ninth-inning meltdown costs No. 21 Florida baseball series against Ole Miss The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "No. 10 Florida baseball prevails against No. 17 Miami in dramatic fashion",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkRnZ2lqQzZJSjZrbHBZV0VnMEUtVTdHT2FhX1NzQ05jb09xVHd2UEZBc21OVzVfc2hLRjlIY1dxTUltRm13QlI3YmQxZDVpZjRBOVZ1X0NoUFA1LVNKZW5yTlBjNVlFU04zcktlSnBqdVIyT1pWOWpzUU13NTU2LWNIWjl6WUlmNnRCbmZtTXF4aUdBX29CbTdXSQ?oc=5",
+          "published": "2026-02-28T08:00:00+00:00",
+          "excerpt": "No. 10 Florida baseball prevails against No. 17 Miami in dramatic fashion The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Florida baseball set to host Gainesville Regional",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHpmLWdPQi11RW85QzNJMzR4ODZFNzhxS2FwbVc2LWFLUFQ4Q1I3VkdWbV9vS2U2bzhQQUpMSzdpOVB5cl8yU2RfMVFjbEpXbGJId3pCYkhoX0JjZWVvZVNNLVpOLTVQT01VTFFRODZLMFlLSVowTW4yWGRkSFhqaGh5dTZCajZoRHZKN0pYcjIxU3BiNWI2OUdoUkctc2NOel9fTXNhZXVGMHVFMnRJ?oc=5",
+          "published": "2026-05-28T07:00:00+00:00",
+          "excerpt": "Florida baseball set to host Gainesville Regional The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Florida baseball’s biggest standouts heading into SEC play",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTzM1ZnREMl9JS2hmd1VEdnJTa1ROVFM2VDNmQUEtczJnRUl5QjJqWWYwQmdVNWhYRWJfeVI0UFd2SWVOVG93UFNiX2lNd0treS0xOHE4RzdrNVhaZWM5NDd0UHNYb1VmMEF2dWpLUDZEaXAxc2lnZ2lXM2pUSlU?oc=5",
+          "published": "2026-03-13T07:00:00+00:00",
+          "excerpt": "Florida baseball’s biggest standouts heading into SEC play The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "What Florida baseball needs to address in the transfer portal",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGRvZkxVNGUxajgwanVUa1NjSW94OWhRX19BOUNCR25Za3REMGx2SHpiOGlRSWtRSlMxQW5zWENhUWRvOFB4d0lVOGQtVkFJYVhBYWlvMUNtOENZcGVETTdva3JqRjBzOTBQdXhrUjE0VE5FQURxQm5acVlPOTZTbEl5TjRDbzl4dzBNQXVEYjFVRWlreTZHMmYwd0Y2ZDJlLTR3U0duTjduMGxiaWdN?oc=5",
+          "published": "2026-06-18T07:00:00+00:00",
+          "excerpt": "What Florida baseball needs to address in the transfer portal The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Florida hires Todd Butler as assistant baseball coach",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWjNDXy05UWdCU2s4WVpTMUs1Y1l5a2hwV2FqYlo0MGdXLTR0NzBvYVBGNDlQb0k3dUFSRGFWYjBPek04VUJ2WnU1U0w0cEVybkwyX0tHaUVtV0FrRUlOaFpMN3JKcy1zRWl2RDdzZFdEcTJUN0ZOR29CTklmYkxlVUdn?oc=5",
+          "published": "2026-07-06T07:00:00+00:00",
+          "excerpt": "Florida hires Todd Butler as assistant baseball coach The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "‘Let’s have a good one’: Gators baseball season days away",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84Ynl2czJSRVV6bVVQQ1U0TE5ZaXRzdFlLbUVTRERja3MyQW9rQkFwUklkbWpmeDlkY19tXzA2bUZFQUwxS0hTVXZ5VVc0VnhnQTBXZ2g1dko5YWtOOS1aWkppakk5ekY0MzVwUUZXRDUycXdJY3RjSGtmR054dkk?oc=5",
+          "published": "2026-02-13T08:00:00+00:00",
+          "excerpt": "‘Let’s have a good one’: Gators baseball season days away The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "3 more Gators selected on Day 2 of MLB Draft",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkd4YVBVc0h2cWVRNTF5ck40N1NIRmd1Qk1UNGFWMHNFajlucnpIRzY1a29FU3JCek5DeFo2Y1JSWHZXS2Q3V1l1LURjdXJPSmRlWDlXWXVILWZ0a0RIRElOTG1NXzhaS1JVakhqdWZfellIbGNYcEIxNVdGTkhxT1BCaFdPY2xid1dXNFI5T3I1R3o0QTM1UmFKc1R0YVFtVnNYTDVYUFE1Q2xlbDRhdTFXMmkxczIyX3lJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published": "2026-07-13T07:00:00+00:00",
+          "excerpt": "3 more Gators selected on Day 2 of MLB Draft The Independent Florida Alligator",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
+        },
+        {
+          "title": "Scouting the draft: Which Gators are likely to go in the 2026 MLB Draft?",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbEpEMzRZalF4cGxKQ0JnQm5FcHQ3VnFtODVMcG5VN1NaZllzNkV3T0c3RjlobktHNDBDRDV4T3JwNVFadWFOTDg1Yk13UnVLNWJEUHFFUzI3VXYwd0lpbHM3czBvN2Z0X2JTdVkwcmVyTVg5V2JIdWtZNXhGNVVQVXd3?oc=5",
+          "published": "2026-07-09T07:00:00+00:00",
+          "excerpt": "Scouting the draft: Which Gators are likely to go in the 2026 MLB Draft? The Independent Florida Alligator",
+          "image": "",
+          "source": "The Independent Florida Alligator",
+          "sourceUrl": "https://www.alligator.org/section/sports"
         }
       ],
       "status": "ok"
