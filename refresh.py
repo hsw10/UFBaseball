@@ -39,7 +39,7 @@ SITES = [
     {"name": "Baseball America", "url": "https://www.baseballamerica.com/teams/1199-florida-gators/", "query": "site:baseballamerica.com Florida baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "mlb")},
     {"name": "GatorSports", "url": "https://www.gatorsports.com/", "query": "site:gatorsports.com Florida baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "mlb")},
     {"name": "Florida Times-Union", "url": "https://www.jacksonville.com/", "query": "site:jacksonville.com Florida Gators baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "o'sullivan", "draft")},
-    {"name": "Hail Florida Hail", "url": "https://hailfloridahail.com/", "query": "site:hailfloridahail.com Florida Gators baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "sully", "o'sullivan", "draft")},
+    {"name": "Hail Florida Hail", "url": "https://hailfloridahail.com/", "query": "site:hailfloridahail.com Florida Gators baseball", "kind": "news", "keywords": ("baseball", "sully", "o'sullivan", "cyr", "peterson", "mcneillie", "draft")},
 ]
 
 
