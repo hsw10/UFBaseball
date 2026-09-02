@@ -14,7 +14,8 @@
   <rect width="800" height="450" fill="url(#bg)"/>
   <rect width="800" height="450" fill="url(#stripes)"/>
   <circle cx="400" cy="194" r="145" fill="#00145f" opacity=".56" stroke="#fa4616" stroke-width="8"/>
-  <image href="gators-logo.png" x="285" y="78" width="230" height="230" preserveAspectRatio="xMidYMid meet"/>
+  <circle cx="400" cy="194" r="116" fill="#ffffff" opacity=".96"/>
+  <image href="gators-logo.png" x="300" y="94" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
   <rect x="0" y="335" width="800" height="115" fill="#fa4616"/>
   <text x="400" y="378" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="5">FLORIDA BASEBALL</text>
   <text x="400" y="421" text-anchor="middle" fill="#0021a5" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="4">10BLK SPORTS</text>
