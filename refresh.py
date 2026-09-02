@@ -35,6 +35,11 @@ SITES = [
     {"name": "Swamp247", "url": "https://247sports.com/college/florida/", "query": "site:247sports.com/college/florida Florida baseball", "kind": "news", "keywords": ("baseball", "mlb")},
     {"name": "Gators Online", "url": "https://www.on3.com/teams/florida-gators/", "query": "site:on3.com/teams/florida-gators Florida baseball", "kind": "news", "keywords": ("baseball", "mlb")},
     {"name": "The Independent Florida Alligator", "url": "https://www.alligator.org/section/sports", "query": "site:alligator.org Florida baseball", "kind": "news", "keywords": ("baseball", "mlb")},
+    {"name": "D1Baseball", "url": "https://d1baseball.com/team/florida/", "query": "site:d1baseball.com Florida Gators baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "mlb")},
+    {"name": "Baseball America", "url": "https://www.baseballamerica.com/teams/1199-florida-gators/", "query": "site:baseballamerica.com Florida baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "mlb")},
+    {"name": "GatorSports", "url": "https://www.gatorsports.com/", "query": "site:gatorsports.com Florida baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "mlb")},
+    {"name": "Florida Times-Union", "url": "https://www.jacksonville.com/", "query": "site:jacksonville.com Florida Gators baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "o'sullivan", "draft")},
+    {"name": "Hail Florida Hail", "url": "https://hailfloridahail.com/", "query": "site:hailfloridahail.com Florida Gators baseball", "kind": "news", "keywords": ("florida", "gators", "baseball", "sully", "o'sullivan", "draft")},
 ]
 
 

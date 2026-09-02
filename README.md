@@ -12,6 +12,11 @@ A standalone University of Florida Baseball news digest, designed for GitHub Pag
 - Swamp247
 - Gators Online
 - The Independent Florida Alligator — Sports
+- D1Baseball
+- Baseball America
+- GatorSports
+- Florida Times-Union
+- Hail Florida Hail
 
 Some publishers have native feeds; sources without a usable feed are collected through a topical site-restricted Google News fallback. A source can be present but contribute no card during a quiet period.
 
