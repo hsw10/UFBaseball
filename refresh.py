@@ -22,7 +22,6 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) UFBase
 SSL_CONTEXT = ssl.create_default_context()
 POST_COUNT = 25
 POSTS_PER_SOURCE = 12
-FALLBACK_IMAGE = "gators-baseball-placeholder.svg"
 AFFILIATION_TERMS = ("florida", "gator", "sully", "o'sullivan", "caglianone", "peterson", "cyr", "mcneillie", "yost", "bowen", "sandefer", "surowiec", "walls")
 
 # All sources requested for the digest. Native feeds are preferred where available;
@@ -125,7 +124,7 @@ def news_posts(site: dict) -> list[dict]:
         title = re.sub(r"\s+-\s+[^-]+$", "", raw_title)
         if not relevant_title(title, site["keywords"]):
             continue
-        posts.append({"title": title, "url": (item.findtext("link") or "").strip(), "published": date_value(item.findtext("pubDate") or ""), "excerpt": clean(item.findtext("description") or "")[:220], "image": "", "source": site["name"], "sourceUrl": site["url"], "imageSource": "pending_article"})
+        posts.append({"title": title, "url": (item.findtext("link") or "").strip(), "published": date_value(item.findtext("pubDate") or ""), "excerpt": clean(item.findtext("description") or "")[:220], "image": "", "source": site["name"], "sourceUrl": site["url"]})
         if len(posts) == POSTS_PER_SOURCE:
             break
     return posts
@@ -140,16 +139,9 @@ def article_image(post: dict) -> dict:
         if not match:
             match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']', page, re.I)
         post["url"] = resolved
-        image = html_lib.unescape(match.group(1)) if match else ""
-        if not image or urllib.parse.urlparse(image).netloc.endswith("googleusercontent.com"):
-            post["image"] = FALLBACK_IMAGE
-            post["imageSource"] = "10blk_fallback"
-        else:
-            post["image"] = image
-            post["imageSource"] = "article"
+        post["image"] = html_lib.unescape(match.group(1)) if match else ""
     except Exception:
-        post["image"] = FALLBACK_IMAGE
-        post["imageSource"] = "10blk_fallback"
+        pass
     return post
 
 
